@@ -1,0 +1,51 @@
+{
+  "hero": {
+    "title": "Explore the {website.name} Blog",
+    "description": "Welcome to the {website.name} blog, your go-to resource for insights, tips, and updates on AI-powered digital asset management. Discover expert advice, industry trends, and behind-the-scenes looks at how {website.name} is revolutionizing collaboration, asset search, and workflow automation. Whether you're a media professional, marketer, or enterprise leader, our blog offers valuable content to optimize your digital asset workflows."
+  },
+  "blogs": {
+    "title": "Latest Posts",
+    "posts": [
+      {
+        "title": "Mastering Digital Asset Management with {website.name}’s ioPilot",
+        "content": "Managing digital assets efficiently requires more than just storage—it demands intelligence. {website.name}’s ioPilot, an AI-powered conversational tool, transforms how teams interact with their digital libraries. Unlike traditional systems that rely on filenames or folders, ioPilot lets you chat with your assets like you would with a smart assistant. For example, you can ask, 'Find videos with our CEO discussing Q3 targets,' and ioPilot retrieves relevant files instantly using natural language search. It can summarize hours of video or entire documents in seconds, saving valuable time. Teams can also trigger workflows directly, such as sending files to a compliance folder with automated notifications. ioPilot’s integration with {website.name}’s platform ensures seamless access across tools like Adobe Premiere Pro or Microsoft Word, keeping your workflow uninterrupted. By leveraging ioPilot’s advanced AI, teams can reduce asset retrieval time by up to 90%, as demonstrated by users managing petabytes of content effortlessly. For beginners, {website.name} offers a 30-day free trial to explore ioPilot’s capabilities. Collaboration is streamlined as ioPilot integrates with ioHub, unifying storage platforms like Google Drive and AWS. Regular testing and user feedback ensure ioPilot adapts to real-world needs, making it a game-changer for creative and enterprise teams aiming to unlock their assets’ full potential.",
+        "author": "Jay Hajeer",
+        "date": "August 15, 2025",
+        "image": "https://cdn.prod.website-files.com/67588292e9cff3b01f7e95a1/680d0f758b6b294be64599f2_67588cf47419fd4747f7e86e_66f583092f001ec45d03dbc7_ioMoVo%2525E2%252580%252599s%252520Workflow%252520Automation-%252520Redefining%252520Content%252520Creation%252520and%252520Distribution.avif"
+      },
+      {
+        "title": "Unifying Your Storage with {website.name}’s ioHub",
+        "content": "Scattered files across multiple platforms like Google Drive, Dropbox, and Azure can slow down productivity and create chaos. {website.name}’s ioHub solves this by unifying over 10 cloud and on-premise storage systems into a single, smart workspace. With ioHub, you can access, manage, and collaborate on digital assets without switching tabs or dealing with duplicates. ioHub auto-indexes metadata, file types, and visual content, ensuring your assets are organized and easily searchable. It enforces role-based access control and live sync, so only authorized team members access sensitive files, aligning with SOC 2, GDPR, and HIPAA standards. For example, a marketing team can connect their SharePoint and AWS accounts to ioHub, instantly accessing all creative files in one interface. {website.name}’s integrations with tools like Adobe After Effects and Microsoft Excel allow users to work directly within their preferred apps, streamlining workflows. By centralizing storage, ioHub saves teams up to 30 hours per week on asset management tasks. Collaboration is enhanced through ioHub’s integration with ioPortal, enabling secure sharing with external partners. Testing across devices ensures compatibility, and {website.name}’s resources help teams optimize their setup. With ioHub, you can transform scattered files into a cohesive, intelligent content engine, boosting efficiency and control.",
+        "author": "Ali Zaidi",
+        "date": "August 10, 2025",
+        "image": "https://cdn.prod.website-files.com/67588292e9cff3b01f7e95a1/680d0f3b72d2c51bf8a30c85_67588cc7b419d8f057ad3e53_65a56948dfb09cc28e737a9a_The%252520Role%252520of%252520Archives%252520in%252520Preserving%252520Cultural%252520Heritage%252520and%252520Identity.avif"
+      },
+      {
+        "title": "Optimizing Workflows with {website.name}’s ioFlow",
+        "content": "Manual workflows can bottleneck creative and enterprise projects, but {website.name}’s ioFlow offers a no-code solution to automate and streamline processes. With ioFlow, teams can build drag-and-drop workflows to handle routing, approvals, notifications, and asset handoffs without IT expertise. For instance, a media company can automate file routing by content type, sending video files to editors in Adobe Premiere Pro while triggering compliance alerts. ioFlow syncs folders across platforms like OneDrive and Google Drive, ensuring seamless collaboration. It integrates with {website.name}’s other modules, such as ioHub and ioPortal, to create end-to-end workflows. By automating repetitive tasks, ioFlow saves up to 30 hours per week, allowing teams to focus on creativity. Real-time visibility into task statuses—such as 'Available,' 'In Progress,' or 'Completed'—enhances resource planning. {website.name}’s enterprise-grade security, including end-to-end encryption and audit logs, ensures compliance with standards like SOC 2. Testing workflows in real-world scenarios ensures they meet team needs. {website.name}’s tutorials guide users in setting up custom workflows, making ioFlow ideal for media, marketing, and production teams looking to boost efficiency and maintain control over complex projects.",
+        "author": "Jay Hajeer",
+        "date": "August 5, 2025",
+        "image": "https://cdn.prod.website-files.com/67588292e9cff3b01f7e95a1/681e390dded375a63d84bdf5_How%20DAM%20Improves%20Workflow%20Automation%20in%20Auto%20Finance%20Back%20Offices.jpeg"
+      },
+      {
+        "title": "The Future of AI in Digital Asset Management with {website.name}’s ioAI",
+        "content": "Artificial intelligence is redefining digital asset management, and {website.name}’s ioAI is at the forefront. Unlike basic tagging systems, ioAI analyzes the content of images, videos, audio, and documents to provide deep insights. It auto-tags faces, scenes, brands, and even emotional tones, making assets instantly searchable. For example, ioAI can detect brand misuse or identify key moments in hours of footage at scale. It also transcribes, translates, and summarizes long-form content in seconds, streamlining workflows for global teams. Integrated with tools like Avid Media Composer, ioAI ensures assets are accessible within your creative environment. By leveraging generative AI, ioAI delivers advanced analysis and content reuse. This reduces file retrieval time by up to 90% and enhances collaboration across teams. {website.name}’s commitment to ethical AI ensures accuracy and usability, with regular updates based on user feedback. Tutorials on {website.name}’s platform help teams harness ioAI’s capabilities, making it ideal for media companies managing petabytes of data or marketing teams organizing creative assets. With ioAI, your digital assets become a dynamic, intelligent ecosystem driving innovation.",
+        "author": "Ali Zaidi",
+        "date": "July 30, 2025",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74a7b133b8f9e34f88d_Ethical%20Leadership.jpg"
+      },
+      {
+        "title": "Streamlining Collaboration with {website.name}’s ioPortal",
+        "content": "Collaborating with external partners can be chaotic with unsecured file links and scattered feedback. {website.name}’s ioPortal offers a branded, secure solution for sharing digital assets with clients, freelancers, or stakeholders. With features like watermarking, link expiry, and customizable access levels, ioPortal ensures full control over shared content. Teams can collect approvals and feedback directly within the portal, ideal for creative reviews or production workflows. For example, a film production team can share dailies with stakeholders, who can annotate and approve within ioPortal, reducing email clutter. Integrated with ioHub, ioPortal unifies assets from platforms like Dropbox and AWS, ensuring seamless access. Its compliance with SOC 2 and GDPR standards makes it trusted by enterprises with strict governance needs. {website.name}’s mobile app extends ioPortal’s functionality, allowing collaboration on the go. Testing and user feedback ensure ioPortal meets real-world demands, while {website.name}’s resources guide teams in setting up secure portals. By replacing chaotic file-sharing with structured collaboration, ioPortal enhances efficiency and security, making it a must-have for creative and enterprise teams aiming to streamline external workflows.",
+        "author": "Jay Hajeer",
+        "date": "July 25, 2025",
+        "image": "https://cdn.prod.website-files.com/67588292e9cff3b01f7e95a1/680d0f08fc716f3fc0ac8028_67588cf7d620ee95df67bb9d_6707dfebd03c8efdfdc44789_Enhancing%252520Team%252520Efficiency%252520with%252520ioFlow%252527s%252520Status-Based%252520Workflow%252520Management.avif"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Stay Updated with {website.name}",
+    "description": "Subscribe to our blog for the latest insights, tutorials, and updates on AI-powered digital asset management. Join the {website.name} community to unlock exclusive content and take your asset management and collaboration to the next level. Try {website.name} free for 30 days and experience the future of intelligent workflows.",
+    "linkText": "Subscribe Now"
+  }
+}

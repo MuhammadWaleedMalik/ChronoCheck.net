@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "title": "全球丢失、被盗与仿冒手表数据库",
+    "subtitle": "为二手奢侈手表市场提供最大保护",
+    "cta": "立即注册您的手表"
+  },
+  "stats": {
+    "title": "我们的数字影响",
+    "stats": [
+      {
+        "number": "110,000+",
+        "label": "登记的丢失/被盗手表数量"
+      },
+      {
+        "number": "5",
+        "label": "每天定位丢失/被盗手表"
+      },
+      {
+        "number": "50%",
+        "label": "在盗窃后一年内找回的手表比例"
+      }
+    ],
+    "brandsText": "可查询所有奢侈品牌，包括：劳力士、欧米茄、百达翡丽、爱彼等"
+  },
+  "features": {
+    "title": "查询数据库",
+    "subtitle": "我们的先进技术与全球网络为您提供找回珍贵表款的最佳机会",
+    "listItems": [
+      "买卖更安心",
+      "避免经济损失",
+      "保护您的声誉",
+      "搜索证书可作为防盗查询证明"
+    ],
+    "ctaPrimary": "立即开始",
+    "ctaSecondary": "已是会员？登录"
+  },
+  "about": {
+    "title": "登记丢失信息",
+    "subtitle": "确保最高找回可能性",
+    "description": "您的手表将被登记在全球最大盗窃数据库中，供经销商、珠宝商、当铺及拍卖行识别被盗表款。我们将在全球二手手表市场持续主动搜索，直到手表被找回。"
+  },
+  "blogs": {
+    "title": "我们如何提供帮助？",
+    "cards": [
+      {
+        "title": "如何为奢侈手表正确投保",
+        "description": "了解如何为您的珍贵腕表提供防盗、丢失和损坏的最佳保险实践。",
+        "link": "/blog/insuring-luxury-watch"
+      },
+      {
+        "title": "2023 年被盗频率最高的手表型号",
+        "description": "探索哪些奢侈手表型号最常成为盗窃目标，并了解如何保护它们。",
+        "link": "/blog/targeted-watch-models"
+      },
+      {
+        "title": "成功案例：找回被盗百达翡丽",
+        "description": "阅读我们的团队如何与国际执法部门合作，追回一枚价值 15 万美元的腕表。",
+        "link": "/blog/patek-recovery-story"
+      },
+      {
+        "title": "了解手表序列号",
+        "description": "关于定位并记录手表序列号以进行登记的重要指南。",
+        "link": "/blog/serial-numbers-guide"
+      },
+      {
+        "title": "携带奢侈手表旅行的安全提示",
+        "description": "国际旅行中保护珍贵手表的必备建议。",
+        "link": "/blog/traveling-with-watches"
+      },
+      {
+        "title": "我们恢复系统背后的技术",
+        "description": "深入了解支持我们腕表恢复平台的先进技术。",
+        "link": "/blog/recovery-technology"
+      }
+    ]
+  },
+  "ctaSection": {
+    "title": "由专家主导、技术驱动的手表犯罪防御方法",
+    "ctaText": "立即登记您的手表",
+    "ctaLink": "/register"
+  },
+  "testimonials": {
+    "title": "客户评价",
+    "items": [
+      {
+        "quote": "在巴塞罗那旅行时我的劳力士被盗，曾以为永远回不来了。多亏了{website.name}，3 个月内它被找回，并完美归还。",
+        "name": "James Wilson",
+        "role": "找回的劳力士潜航者"
+      },
+      {
+        "quote": "登记流程很简单。当我的爱彼被盗时，团队每一步都指导我。他们的专业让我在焦虑中重燃希望。",
+        "name": "Sarah Johnson",
+        "role": "找回的爱彼皇家橡树"
+      },
+      {
+        "quote": "作为拥有 20 多枚奢侈手表的收藏者，安心是无价的。他们通过全面的保护服务正好满足了我的需求。",
+        "name": "Michael Chen",
+        "role": "奢侈手表收藏者"
+      },
+      {
+        "quote": "起初我很怀疑，但当我的古董欧米茄在国外拍卖行被找回时，我变成了相信者。找回过程非常顺利。",
+        "name": "Robert Williams",
+        "role": "找回的古董欧米茄超霸"
+      }
+    ]
+  },
+  "contact": {
+    "title": "关于我们",
+    "description": "THE {website.name} 是全球领先的丢失与被盗手表数据库。我们在伦敦设有总部，并隶属于 Art Loss Register。我们拥有 35 年在行业中保护贸易的经验，与执法部门密切协作，成功追回价值数亿英镑的失窃财产。THE WATCH REGISTER 提供买家和交易者最可信赖的查询服务，无论是劳力士还是其他品牌手表。一流的恢复服务为受害者和保险人提供最高追回率。",
+    "formTitle": "创建您的帐户"
+  }
+}

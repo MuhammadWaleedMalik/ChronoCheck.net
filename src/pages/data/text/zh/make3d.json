@@ -1,0 +1,53 @@
+{
+  "header": {
+    "title": "3D 游戏生成器",
+    "description": "描述您的 3D 游戏创意，我们将使用 Three.js 为您生成代码。适合初学者和高级开发者。"
+  },
+  "input": {
+    "title": "描述您的 3D 游戏",
+    "howToUse": "如何使用",
+    "instructions": [
+      "在文本区域描述您的 3D 游戏创意（例如：“一个带有跳跃角色的 3D 平台游戏”）",
+      "点击生成按钮来创建您的游戏代码",
+      "复制代码并与 Three.js 一起使用",
+      "自定义代码以满足您的具体需求"
+    ],
+    "placeholder": "描述您的 3D 游戏创意...（例如：一个带有跳跃角色的 3D 平台游戏、一个有敌人的 3D 太空射击游戏、一个带有 3D 方块的益智游戏）",
+    "generateButton": "生成代码",
+    "generating": "生成中...",
+    "characterCount": "字符"
+  },
+  "output": {
+    "title": "生成的代码",
+    "copied": "代码已复制到剪贴板！",
+    "empty": "您的生成代码将显示在这里",
+    "generating": "正在生成您的游戏代码...",
+    "usageTitle": "如何使用此代码",
+    "usageDescription": "此代码使用 Three.js 库。运行方法：",
+    "usageSteps": [
+      "创建一个 HTML 文件并引入 Three.js 和 OrbitControls",
+      "将此代码复制到 script 标签或单独的 JS 文件中",
+      "在浏览器中打开 HTML 文件"
+    ]
+  },
+  "section": {
+    "title": "如何使用生成的代码",
+    "steps": [
+      {
+        "title": "创建 HTML 文件",
+        "description": "创建一个基础 HTML 文件，并从 CDN 或本地引入 Three.js 库和 OrbitControls。",
+        "code": "<script src=\"https://threejs.org/build/three.js\"></script>\n<script src=\"https://threejs.org/examples/jsm/controls/OrbitControls.js\"></script>"
+      },
+      {
+        "title": "添加您的游戏代码",
+        "description": "将生成的代码复制到 HTML 文件的 <script> 标签中，或作为外部 JS 文件链接。",
+        "code": "<script>\n  // 您生成的代码放在这里\n</script>"
+      },
+      {
+        "title": "运行和自定义",
+        "description": "在浏览器中打开 HTML 文件以查看您的游戏。修改代码以进一步自定义。",
+        "code": "// 尝试修改数值\n// 来打造您完美的 3D 游戏！"
+      }
+    ]
+  }
+}

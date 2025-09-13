@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "媒体与新闻",
+    "description": "欢迎访问 {website.name} 媒体页面，这是获取最新新闻发布、资讯和我们人工智能驱动的数字资产管理解决方案更新的来源。了解 {website.name} 如何通过从存储统一到智能工作流程，彻底改变团队处理内容的方式。随时了解我们的创新、合作伙伴关系和成功故事。"
+  },
+  "media": {
+    "title": "最新新闻发布",
+    "releases": [
+      {
+        "title": "{website.name} 通过人工智能搜索增强数字资产管理",
+        "content": "{website.name} 推出 ioPilot，使团队能够使用自然语言与数字图书馆互动，秒速总结文档和视频，并触发文件路由等工作流程。与传统解决方案相比，文件检索速度提高90%。\n\n此创新允许用户提出任何问题，例如“查找有CEO谈论第三季度目标的视频”或“将此发送到合规文件夹并通知我”。\n\n专为创意团队打造，{website.name} 连接所有存储，让人工智能处理搜索、转录、标签和交付——让团队更快创作、顺畅协作，永不错过截止日期。\n\n从管理PB级素材的媒体公司到埋没在创意文件中的营销团队，{website.name} 通过高级人工智能集中、组织和释放数字资产的价值。\n\nioPilot 不仅存储内容，还理解内容，彻底改变组织与其数字图书馆的交互方式。",
+        "date": "2025年8月20日",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      },
+      {
+        "title": "{website.name} 推出云存储整合的统一工作空间",
+        "content": "{website.name} 推出 ioHub，连接 Google Drive、SharePoint、Dropbox、OneDrive、AWS、Azure 等，打造单一智能工作空间，自动索引元数据，减少标签过载，每周为团队节省高达30小时的数字资产管理任务时间。\n\n此统一工作空间通过实时同步和用户权限强制执行访问控制，连接10多个云端和本地系统。\n\nioHub 是 {website.name} 统一存储并利用人工智能进行智能内容管理套件的一部分。\n\n团队成果比传统解决方案快50%，通过自然语言人工智能搜索实现90%的文件检索速度提升。\n\n{website.name} 为具有严格数据治理要求的组织设计，提供企业级安全性和合规性。",
+        "date": "2025年8月15日",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f649c962aa9a54261_Aboutimg2.png"
+      },
+      {
+        "title": "{website.name} 扩展人工智能功能，推出 ioAI 用于内容智能",
+        "content": "{website.name} 扩展人工智能功能，推出 ioAI，自动标记面孔、场景、品牌、情感基调，转录、翻译和总结长篇内容，并大规模检测异常，提升图片、视频、音频和文档的组织能力。\n\nioAI 超越标签，自动理解内容内部信息。\n\n此功能集成到 {website.name} 的平台，专为需要超越存储的创意团队设计。\n\n通过 ioAI，团队可以检测品牌误用或关键视觉时刻，优化工作流程并提升协作。\n\n{website.name} 提供与 Adobe、Microsoft 和 Avid 工具的原生集成，适应团队现有工作方式。",
+        "date": "2025年8月10日",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74acc1e5c9c760d8e93_Inovation.jpg"
+      },
+      {
+        "title": "{website.name} 与 Adobe 和 Microsoft 整合，实现无缝工作流程",
+        "content": "{website.name} 宣布与 Adobe（Photoshop、Premiere Pro、After Effects、XD）和 Microsoft（Word、Excel、PowerPoint、Outlook）原生整合，允许用户直接在这些工具中访问和交互数字资产，无需切换平台即可提高生产力。\n\n这些整合适应团队现有工作方式，无需下载或切换。\n\n{website.name} 还与 Avid Media Composer 整合，增强媒体专业人员的工作流程。\n\n此更新是 {website.name} 将数字资产转变为智能、动态生态系统承诺的一部分。\n\n团队现在可以更高效地管理PB级资产，人工智能处理搜索和组织。",
+        "date": "2025年8月5日",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74a7b133b8f9e34f88d_Ethical%20Leadership.jpg"
+      },
+      {
+        "title": "美国之音案例研究：使用 {website.name} 的人工智能管理20PB资产",
+        "content": "美国之音利用 {website.name} 将20PB的资产智能化，将分散的文件转变为统一的智能内容引擎。\n\n通过 {website.name}，美国之音更快找到资产，自动化繁琐工作，无混乱协作，由企业级人工智能驱动。\n\n该实施案例展示了 {website.name} 处理大规模数据的能力，具备 ioHub 统一和 ioAI 内容智能等功能。\n\n此案例研究展示了 {website.name} 如何为媒体公司节省时间并提高生产力。\n\n{website.name} 符合 SOC 2、GDPR 和 HIPAA，确保为美国之音等组织提供安全的数据管理。",
+        "date": "2025年7月30日",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      }
+    ]
+  },
+  "cta": {
+    "title": "与 {website.name} 保持更新",
+    "description": "订阅我们的媒体更新，获取最新新闻发布、资讯和人工智能驱动的数字资产管理的见解。加入 {website.name} 社区，在游戏开发和内容创新中保持领先。",
+    "linkText": "立即订阅"
+  }
+}

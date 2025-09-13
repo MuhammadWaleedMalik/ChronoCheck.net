@@ -1,0 +1,57 @@
+{
+  "brand": {
+    "nameAlt": "RightsTrade",
+    "slogan": "2D 和 3D 引擎"
+  },
+  "sections": [
+    {
+      "title": "我们的引擎",
+      "links": [
+        { "path": "/signup", "label": "注册" },
+        { "path": "/login", "label": "登录" }
+      ]
+    },
+    {
+      "title": "项目",
+      "links": [
+        { "path": "/2dgames", "label": "制作 2D 游戏" },
+        { "path": "/3dgames", "label": "解锁 2D 游戏" },
+        { "path": "/refine2dgames", "label": "开源 2D 游戏" },
+        { "path": "/refine3dgames", "label": "开源 3D 游戏" },
+        { "path": "/gamecovers", "label": "制作游戏封面" }
+      ]
+    },
+    {
+      "title": "资源",
+      "links": [
+        { "path": "/access-/-use", "label": "访问与使用" },
+        { "path": "/blogs", "label": "博客" },
+        { "path": "/contact-us", "label": "联系我们" },
+        { "path": "/teammembers", "label": "团队" }
+      ]
+    },
+    {
+      "title": "基金会",
+      "links": [
+        { "path": "/about", "label": "关于我们" },
+        { "path": "/doante", "label": "捐赠" },
+        { "path": "/privacy", "label": "隐私" },
+        { "path": "/terms", "label": "条款" }
+      ]
+    }
+  ],
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "d" },
+      { "name": "Twitter", "link": "d" },
+      { "name": "Youtube", "link": "d" },
+      { "name": "LinkedIn", "link": "d" }
+    ]
+  },
+  "copyright": {
+    "text": "版权所有 ©",
+    "privacy": "隐私政策",
+    "cookies": "Cookie 政策",
+    "terms": "服务条款"
+  }
+}

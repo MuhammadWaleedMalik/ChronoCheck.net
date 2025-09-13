@@ -1,0 +1,100 @@
+{
+  "hero": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "We've compiled detailed answers to the most common questions about {website.name} to help you understand our platform better and get started seamlessly."
+  },
+  "mission": {
+    "title": "Getting Started with {website.name}",
+    "description": "Whether you're new to {website.name} or looking to optimize your experience, our FAQs cover everything from basic setup to advanced features. Dive in to find comprehensive guidance tailored to coaches, athletes, and teams."
+  },
+  "features": {
+    "title": "Common Questions and Detailed Answers",
+    "items": [
+      {
+        "id": 1,
+        "title": "What is {website.name} and how does it work?",
+        "description": "{website.name} is a comprehensive sports performance analysis platform that empowers teams and athletes with video breakdown tools, statistical insights, and fan engagement features. It works by allowing users to upload game footage, annotate plays, track performance metrics, and share content securely. Our cloud-based system ensures accessibility from any device, with AI-assisted tagging and real-time collaboration to streamline coaching workflows and enhance player development.",
+        "icon": "video"
+      },
+      {
+        "id": 2,
+        "title": "How do I create an account on {website.name}?",
+        "description": "Creating an account is simple and takes just a few minutes. Visit our website's signup page, provide your email address, choose a secure password, and fill in basic details like your name, team affiliation, and role (coach, athlete, etc.). You'll receive a verification email—click the link to confirm your account. Once verified, you can log in and start exploring features. We also offer social login options via Google or Apple for faster registration.",
+        "icon": "users"
+      },
+      {
+        "id": 3,
+        "title": "What sports does {website.name} support?",
+        "description": "We support a wide range of sports, including but not limited to football, basketball, soccer, volleyball, baseball, softball, lacrosse, hockey, wrestling, track and field, swimming, tennis, golf, and more—over 15 sports in total. Our tools are customizable to fit specific sport needs, with pre-built templates for play breakdowns and stats tracking. If your sport isn't listed, contact support; we're constantly expanding our offerings based on user feedback.",
+        "icon": "globe"
+      },
+      {
+        "id": 4,
+        "title": "How secure is my data on {website.name}?",
+        "description": "Security is our top priority. We employ industry-leading measures including end-to-end encryption for data transmission, secure cloud storage with AWS, regular security audits, and compliance with GDPR and CCPA standards. User content like videos and stats is private by default, with granular sharing controls. We also use two-factor authentication (2FA) options and monitor for suspicious activity to protect your personal and team information from unauthorized access.",
+        "icon": "stats"
+      },
+      {
+        "id": 5,
+        "title": "Can I share content with people who don't have a {website.name} account?",
+        "description": "Absolutely. {website.name} allows you to generate secure, shareable links for videos, highlights, playlists, or stats reports. These links can be set to expire after a certain time or require a password for added security. Non-users can view the content without signing up, but they won't have editing or commenting privileges. This feature is ideal for sharing with recruiters, scouts, or family members while maintaining control over your data.",
+        "icon": "share"
+      },
+      {
+        "id": 6,
+        "title": "What if my team needs custom features or integrations?",
+        "description": "For larger teams or organizations requiring tailored solutions, our enterprise team can develop custom features, such as branded interfaces, advanced analytics, or integrations with third-party tools like wearables or scoring systems. Contact us via the enterprise inquiry form on our website to discuss your needs. We'll provide a personalized demo and proposal to ensure {website.name} aligns perfectly with your workflow.",
+        "icon": "camera"
+      },
+      {
+        "id": 7,
+        "title": "What are the pricing options for {website.name}?",
+        "description": "{website.name} offers flexible pricing tiers to suit different needs. Our free plan includes basic video upload and sharing for individuals. Team plans start at $X/month (billed annually), providing unlimited storage, advanced analytics, and collaboration tools. Enterprise pricing is custom-based on team size and features. All paid plans include priority support and regular updates. Visit our pricing page for the latest details and to compare features.",
+        "icon": "dollar"
+      },
+      {
+        "id": 8,
+        "title": "Is there a mobile app for {website.name}?",
+        "description": "Yes, we have dedicated mobile apps for iOS and Android devices. The apps allow you to upload videos directly from your phone, view and annotate footage on the go, receive real-time notifications for team updates, and access stats dashboards. Features like offline mode let you download content for review without internet. Download the app from the App Store or Google Play and log in with your {website.name} credentials for seamless syncing across devices.",
+        "icon": "smartphone"
+      },
+      {
+        "id": 9,
+        "title": "Does {website.name} integrate with other tools or software?",
+        "description": "{website.name} supports integrations with popular tools like Google Drive for file imports, Zoom for virtual meetings, wearable devices (e.g., Fitbit, Garmin) for performance data syncing, and social media platforms for easy sharing. We also offer API access for custom integrations. If you need something specific, our support team can guide you through setup or connect you with our developer resources for building bespoke connections.",
+        "icon": "link"
+      },
+      {
+        "id": 10,
+        "title": "How can I get support if I have issues or questions?",
+        "description": "Our support team is here to help 24/7. You can reach us via live chat on the website or app, email at support@{website.name}.com, or through our comprehensive help center with articles, tutorials, and video guides. For urgent issues, premium users get priority phone support. We also have community forums where users share tips and best practices. Expect a response within hours for most inquiries.",
+        "icon": "headphones"
+      }
+    ]
+  },
+  "stats": {
+    "title": "{website.name} By The Numbers",
+    "items": [
+      {
+        "value": "200K+",
+        "label": "Teams Worldwide"
+      },
+      {
+        "value": "6M+",
+        "label": "Active Users"
+      },
+      {
+        "value": "180+",
+        "label": "Countries"
+      },
+      {
+        "value": "15+",
+        "label": "Sports"
+      }
+    ]
+  },
+  "team": {
+    "title": "Still Have Questions?",
+    "description": "If you couldn't find the answer you're looking for, our dedicated support team is ready to assist. Reach out via email at support@{website.name}.com, through our help center, or join our community forums for peer-to-peer advice. We're committed to ensuring you have the best experience with {website.name}."
+  }
+}

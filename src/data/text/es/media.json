@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "Medios y prensa",
+    "description": "Bienvenido a la página de medios de {website.name}, tu fuente para los últimos comunicados de prensa, noticias y actualizaciones sobre nuestras soluciones impulsadas por IA para la gestión de activos digitales. Descubre cómo {website.name} está revolucionando la forma en que los equipos manejan el contenido, desde la unificación del almacenamiento hasta los flujos de trabajo inteligentes. Mantente informado sobre nuestras innovaciones, asociaciones e historias de éxito."
+  },
+  "media": {
+    "title": "Últimos comunicados de prensa",
+    "releases": [
+      {
+        "title": "{website.name} mejora la gestión de activos digitales con búsqueda impulsada por IA",
+        "content": "{website.name} presenta ioPilot, que permite a los equipos interactuar con su biblioteca digital usando lenguaje natural, resumiendo documentos y videos en segundos y activando flujos de trabajo como el enrutamiento de archivos. Logra un 90% más de rapidez en la recuperación de archivos en comparación con soluciones tradicionales.\n\nEsta innovación permite a los usuarios hacer cualquier pregunta, como “Encuentra videos donde el CEO hable sobre los objetivos del tercer trimestre” o “Envía esto a la carpeta de cumplimiento y notifícame”.\n\nDiseñado para equipos creativos, {website.name} conecta todo el almacenamiento y permite que la IA gestione la búsqueda, transcripción, etiquetado y entrega, para que los equipos puedan crear más rápido, colaborar sin problemas y nunca perder un plazo.\n\nDesde empresas de medios que gestionan petabytes de material hasta equipos de marketing abrumados por archivos creativos, {website.name} centraliza, organiza y desbloquea el valor de los activos digitales con IA avanzada.\n\nioPilot no solo almacena contenido, sino que lo comprende, revolucionando cómo las organizaciones interactúan con sus bibliotecas digitales.",
+        "date": "20 de agosto de 2025",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      },
+      {
+        "title": "{website.name} lanza un espacio de trabajo unificado para la integración de almacenamiento en la nube",
+        "content": "{website.name} lanza ioHub, conectando Google Drive, SharePoint, Dropbox, OneDrive, AWS, Azure y más en un único espacio de trabajo inteligente, indexando automáticamente metadatos y reduciendo la sobrecarga de pestañas, ahorrando a los equipos hasta 30 horas semanales en tareas de gestión de activos digitales.\n\nEste espacio de trabajo unificado aplica control de acceso con sincronización en tiempo real y permisos de usuario, conectándose a más de 10 sistemas en la nube y locales.\n\nioHub es parte de la suite de {website.name} que unifica el almacenamiento y aprovecha la IA para una gestión de contenido inteligente.\n\nLos equipos logran resultados un 50% más rápidos que con soluciones tradicionales, con una recuperación de archivos un 90% más rápida gracias a la búsqueda por IA en lenguaje natural.\n\n{website.name} está diseñado para organizaciones con estrictos requisitos de gobernanza de datos, ofreciendo seguridad y cumplimiento de nivel empresarial.",
+        "date": "15 de agosto de 2025",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f649c962aa9a54261_Aboutimg2.png"
+      },
+      {
+        "title": "{website.name} expande las capacidades de IA con ioAI para inteligencia de contenido",
+        "content": "{website.name} expande las capacidades de IA con ioAI, que ahora etiqueta automáticamente rostros, escenas, marcas, tono emocional, transcribe, traduce y resume contenido extenso, y detecta anomalías a gran escala, mejorando la organización de imágenes, videos, audio y documentos.\n\nioAI va más allá de las etiquetas, entendiendo automáticamente el contenido.\n\nEsta función está integrada en la plataforma de {website.name}, diseñada para equipos creativos que necesitan más que solo almacenamiento.\n\nCon ioAI, los equipos pueden detectar el uso indebido de marcas o momentos visuales clave, optimizando flujos de trabajo y potenciando la colaboración.\n\n{website.name} ofrece integraciones nativas con herramientas de Adobe, Microsoft y Avid, adaptándose a la forma en que los equipos ya trabajan.",
+        "date": "10 de agosto de 2025",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74acc1e5c9c760d8e93_Inovation.jpg"
+      },
+      {
+        "title": "{website.name} se integra con Adobe y Microsoft para un flujo de trabajo sin interrupciones",
+        "content": "{website.name} anuncia integraciones nativas con Adobe (Photoshop, Premiere Pro, After Effects, XD) y Microsoft (Word, Excel, PowerPoint, Outlook), permitiendo a los usuarios acceder e interactuar con activos digitales directamente dentro de estas herramientas, mejorando la productividad sin necesidad de cambiar de plataforma.\n\nEstas integraciones se adaptan a la forma en que los equipos ya trabajan, sin necesidad de descargas ni cambios.\n\n{website.name} también se integra con Avid Media Composer, mejorando los flujos de trabajo para profesionales de los medios.\n\nEsta actualización es parte del compromiso de {website.name} de transformar los activos digitales en ecosistemas inteligentes y dinámicos.\n\nLos equipos ahora pueden gestionar petabytes de activos de manera más eficiente, con la IA manejando la búsqueda y la organización.",
+        "date": "5 de agosto de 2025",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74a7b133b8f9e34f88d_Ethical%20Leadership.jpg"
+      },
+      {
+        "title": "Estudio de caso de Voice of America: Gestionando 20 petabytes con la IA de {website.name}",
+        "content": "Voice of America aprovecha {website.name} para hacer inteligentes 20 petabytes de activos, transformando archivos dispersos en un motor de contenido unificado e inteligente.\n\nCon {website.name}, Voice of America encuentra activos más rápido, automatiza tareas tediosas y colabora sin caos, impulsado por IA de nivel empresarial.\n\nLa implementación destaca la capacidad de {website.name} para manejar datos a gran escala, con funciones como ioHub para unificación e ioAI para inteligencia de contenido.\n\nEste estudio de caso demuestra cómo {website.name} ahorra tiempo y mejora la productividad para empresas de medios.\n\n{website.name} cumple con SOC 2, GDPR y HIPAA, garantizando una gestión de datos segura para organizaciones como Voice of America.",
+        "date": "30 de julio de 2025",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Mantente actualizado con {website.name}",
+    "description": "Suscríbete a nuestras actualizaciones de medios para obtener los últimos comunicados de prensa, noticias e información sobre la gestión de activos digitales impulsada por IA. Únete a la comunidad de {website.name} para mantenerte a la vanguardia en el desarrollo de juegos y la innovación de contenido.",
+    "linkText": "Suscríbete ahora"
+  }
+}

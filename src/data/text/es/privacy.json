@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "title": "Política de privacidad",
+    "description": "En {website.name}, estamos comprometidos con proteger tu privacidad y garantizar la seguridad de tus activos digitales. Nuestra plataforma impulsada por IA, diseñada para una gestión de activos digitales sin problemas, cumple con los más altos estándares de protección de datos y cumplimiento normativo. Descubre cómo {website.name} protege tus datos mediante un cifrado robusto, controles de acceso estrictos y el cumplimiento de regulaciones globales como SOC 2, GDPR y HIPAA. Te empoderamos con el control sobre tus datos mientras ofrecemos soluciones inteligentes para tu equipo."
+  },
+  "team": {
+    "title": "Nuestro equipo de protección de datos",
+    "members": [
+      {
+        "name": "Jay Hajeer",
+        "title": "Oficial de Protección de Datos",
+        "bio": "Jay Hajeer, como Oficial de Protección de Datos en {website.name}, lidera nuestros esfuerzos para garantizar el cumplimiento de las regulaciones globales de privacidad. Con una amplia experiencia en seguridad de datos e IA, Jay supervisa la implementación de políticas de privacidad robustas, asegurando que tus datos estén protegidos con estándares de nivel empresarial.",
+        "image": "/images/placeholder.jpg"
+      },
+      {
+        "name": "Ali Zaidi",
+        "title": "Líder de Cumplimiento",
+        "bio": "Ali Zaidi, Líder de Cumplimiento en {website.name}, asegura que nuestra plataforma cumpla con los estándares SOC 2, GDPR y HIPAA. Su experiencia en marcos regulatorios y soluciones de seguridad impulsadas por IA garantiza que {website.name} ofrezca un entorno seguro y conforme para todos los usuarios.",
+        "image": "/images/placeholder.jpg"
+      }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "La seguridad de los datos primero",
+        "description": "En {website.name}, la seguridad de los datos es nuestra máxima prioridad. Implementamos cifrado de extremo a extremo, autenticación multifactor (MFA) y controles de acceso basados en roles para proteger tus activos digitales. Nuestra plataforma está diseñada para prevenir accesos no autorizados, asegurando que tu contenido —ya sean imágenes, videos o documentos— permanezca seguro. Realizamos auditorías de seguridad y pruebas de penetración regulares para mantener los más altos estándares. {website.name} se integra con herramientas como Adobe y Microsoft, garantizando flujos de trabajo seguros sin comprometer la integridad de los datos. También proporcionamos registros de auditoría detallados y seguimiento de actividades para garantizar transparencia y responsabilidad, permitiéndote confiar en nuestra plataforma con tus activos más sensibles.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      },
+      {
+        "title": "Control y transparencia del usuario",
+        "description": "{website.name} empodera a los usuarios con control total sobre sus datos. Nuestra plataforma te permite gestionar permisos de acceso, establecer fechas de caducidad para enlaces compartidos y rastrear actividades con registros detallados. Ofrecemos políticas de privacidad claras y transparentes, asegurando que comprendas cómo se recopilan, almacenan y utilizan tus datos. Con {website.name}, puedes solicitar la eliminación o exportación de datos en cualquier momento, en cumplimiento con GDPR y otras regulaciones. Nuestra función ioPortal garantiza un intercambio seguro con clientes y socios, con marcas de agua y controles de nivel de acceso para proteger tu contenido.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f649c962aa9a54261_Aboutimg2.png"
+      },
+      {
+        "title": "Cumplimiento con estándares globales",
+        "description": "{website.name} está diseñado para organizaciones con requisitos estrictos de gobernanza de datos. Cumplimos completamente con los estándares SOC 2, GDPR y HIPAA, asegurando que tus datos cumplan con los requisitos regulatorios. Nuestra plataforma se somete a auditorías de cumplimiento regulares para mantener las certificaciones. ioHub de {website.name} unifica plataformas de almacenamiento como AWS, Azure y Google Drive, aplicando cumplimiento mediante sincronización en tiempo real y permisos de usuario. Ya sea que seas una empresa de medios que gestiona petabytes o un equipo pequeño manejando activos creativos, {website.name} asegura que tus prácticas de datos estén alineadas con los estándares globales.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74acc1e5c9c760d8e93_Inovation.jpg"
+      },
+      {
+        "title": "Privacidad inteligente con IA",
+        "description": "{website.name} aprovecha la IA para mejorar la privacidad sin comprometer la funcionalidad. Nuestro módulo ioAI detecta automáticamente contenido sensible, como información de identificación personal (PII), y aplica medidas de protección como anonimización o acceso restringido. La detección de anomalías impulsada por IA identifica posibles amenazas de seguridad, asegurando que tus activos estén seguros. Los flujos de trabajo inteligentes de {website.name}, impulsados por ioFlow, te permiten automatizar tareas relacionadas con la privacidad, como enrutar archivos sensibles a carpetas seguras o notificar a los equipos de cumplimiento. Este enfoque inteligente asegura que la privacidad esté integrada en cada aspecto de la gestión de activos digitales.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74a7b133b8f9e34f88d_Ethical%20Leadership.jpg"
+      }
+    ]
+  },
+  "additional": {
+    "items": [
+      {
+        "title": "Minimización de datos",
+        "description": "{website.name} se adhiere a los principios de minimización de datos, recopilando solo los datos necesarios para proporcionar nuestros servicios. Evitamos la retención innecesaria de datos y aseguramos que tus activos digitales se procesen de manera eficiente. Nuestro módulo ioAI optimiza el manejo de datos al etiquetar e indexar automáticamente solo los metadatos relevantes, reduciendo la sobrecarga de almacenamiento mientras se mantiene la privacidad."
+      },
+      {
+        "title": "Integraciones seguras",
+        "description": "Nuestra plataforma se integra de manera segura con herramientas como Adobe, Microsoft y Avid, asegurando que tus datos permanezcan protegidos durante los flujos de trabajo. {website.name} utiliza APIs cifradas y protocolos seguros para prevenir fugas de datos, permitiéndote trabajar sin problemas dentro de tus herramientas existentes mientras mantienes la privacidad."
+      },
+      {
+        "title": "Derechos y soporte del usuario",
+        "description": "{website.name} respeta tus derechos de datos, incluyendo el derecho a acceder, corregir o eliminar tus datos. Nuestro equipo de soporte está disponible para ayudarte con consultas relacionadas con la privacidad, asegurando que tengas control total sobre tus activos. Contáctanos en cualquier momento para obtener más información sobre tus derechos o nuestras prácticas de privacidad."
+      },
+      {
+        "title": "Auditorías de seguridad regulares",
+        "description": "Para mantener la confianza, {website.name} realiza auditorías de seguridad y evaluaciones de vulnerabilidades regulares. Nuestro enfoque proactivo asegura que cualquier riesgo potencial se identifique y mitigue rápidamente, manteniendo tus activos digitales seguros y conformes con los estándares de la industria."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Contacta con nuestro equipo de privacidad",
+    "description": "¿Tienes preguntas sobre cómo {website.name} protege tus datos? Comunícate con nuestro equipo de privacidad dedicado para obtener más información sobre nuestras políticas, solicitar acceso a datos o discutir necesidades de cumplimiento. Estamos aquí para garantizar tu confianza en nuestra plataforma impulsada por IA.",
+    "linkText": "Contáctanos"
+  }
+}

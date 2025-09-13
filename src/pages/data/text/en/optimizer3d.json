@@ -1,0 +1,18 @@
+{
+  "header": {
+    "title": "3D Game Code Optimizer",
+    "description": "Paste your 3D game code (Three.js) to optimize performance and readability."
+  },
+  "input": {
+    "title": "Your 3D Game Code",
+    "placeholder": "Paste your Three.js game code here...",
+    "optimizeButton": "Optimize Code",
+    "optimizing": "Optimizing..."
+  },
+  "output": {
+    "title": "Optimized Code",
+    "copied": "Code copied to clipboard!",
+    "empty": "Your optimized code will appear here",
+    "optimizing": "Optimizing your game code..."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "header": {
+    "title": "3D游戏代码优化器",
+    "description": "粘贴您的3D游戏代码（Three.js），以优化性能和可读性。"
+  },
+  "input": {
+    "title": "您的3D游戏代码",
+    "placeholder": "在此粘贴您的Three.js游戏代码...",
+    "optimizeButton": "优化代码",
+    "optimizing": "正在优化..."
+  },
+  "output": {
+    "title": "优化后的代码",
+    "copied": "代码已复制到剪贴板！",
+    "empty": "您的优化代码将显示在这里",
+    "optimizing": "正在优化您的游戏代码..."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "{website.name} Cookie 政策",
+  "subtitle": "了解 {website.name} 如何使用 cookie 来增强您与我们人工智能驱动的数字资产管理平台的体验，确保无缝功能、分析和个性化。",
+  "content": [
+    "{website.name} 使用 cookie 来优化您在我们平台上的体验，该平台通过 ioPilot、ioHub 和 ioAI 等功能实现智能数字资产管理。Cookie 帮助我们了解您如何与我们的服务互动，使我们能够提升性能、个性化内容并提供更好的用户洞察分析。",
+    "Cookie 是您访问我们网站时存储在您设备上的小型文本文件。它们允许 {website.name} 记住您的偏好、跟踪使用模式并提供自然语言搜索和自动化工作流程等定制功能。我们致力于透明地说明如何使用 cookie 来支持您的生产力。",
+    "通过使用 {website.name}，您同意我们按照本政策所述使用 cookie。您可以随时通过浏览器设置或我们平台的同意横幅管理您的 cookie 偏好。{website.name} 遵守 GDPR 和 CCPA 等全球隐私法规，确保您的负责任地处理数据。"
+  ],
+  "sections": [
+    {
+      "title": "必要 Cookie",
+      "content": "必要 cookie 对 {website.name} 平台的正常运行至关重要，支持用户身份验证、会话管理和访问 ioHub 的统一工作空间等核心功能。这些 cookie 确保与 AWS、Azure 和 Google Drive 等云存储平台无缝集成，且由于对提供我们的服务至关重要，无法禁用。"
+    },
+    {
+      "title": "性能 Cookie",
+      "content": "{website.name} 使用性能 cookie 收集关于用户如何与我们平台交互的匿名数据，例如页面加载时间和功能使用情况（例如 ioPilot 的自然语言搜索）。这些数据帮助我们优化性能，通过提高效率和用户体验，每周节省高达 30 小时的数字资产管理任务时间。"
+    },
+    {
+      "title": "功能 Cookie",
+      "content": "功能 cookie 使 {website.name} 能够提供个性化功能，例如记住您的语言偏好或 ioFlow 中的工作流程设置。这些 cookie 通过根据您的需求定制平台、支持与 Adobe 和 Microsoft 工具的集成，增强可用性，同时不损害隐私。"
+    },
+    {
+      "title": "分析 Cookie",
+      "content": "分析 cookie 帮助 {website.name} 了解使用模式，例如用户访问 ioAI 进行内容标记或 ioPortal 进行安全共享的频率。这些 cookie 提供改进服务的洞察，确保 90% 更快的文件检索和更好的协作。数据被聚合和匿名化以保护您的隐私。"
+    }
+  ],
+  "lastUpdated": "2025年8月23日"
+}

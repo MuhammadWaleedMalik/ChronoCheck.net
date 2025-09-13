@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "title": "Game Dev Blog",
+    "subtitle": "Explore tips, tutorials, and insights on creating 2D and 3D games with {website.name}"
+  },
+  "posts": {
+    "title": "Latest Posts",
+    "items": [
+      {
+        "id": 1,
+        "title": "Mastering 2D Platformers: Core Mechanics",
+        "content": "Creating a 2D platformer is a great starting point for new game developers. With {website.name}, you can leverage visual scripting to design smooth player controls. Start with a character controller that handles jumping and movement. Use physics for gravity and collisions to ensure a realistic feel. Add collectibles like coins or power-ups to engage players. Our asset library offers sprites for characters and environments, saving you time. Tweak variables like jump height and speed for perfect gameplay. Test early and often to balance difficulty. Multiplatform export lets you share your game on web or mobile. {website.name}’s tools make iteration quick and intuitive. Experiment with level design to keep players hooked. Avoid common pitfalls like clunky controls or unfair obstacles. Community feedback can refine your mechanics. With practice, your platformer will shine. Start small, then scale up with more features. {website.name} supports your creative journey. Ready to build your first level?",
+        "icon": "code",
+        "date": "August 15, 2025"
+      },
+      {
+        "id": 2,
+        "title": "Building Immersive 3D Worlds",
+        "content": "Crafting 3D games on {website.name} is easier than you think. Our 3D engine supports stunning visuals and realistic physics. Begin with a simple terrain and add assets from our library. Use lighting to set the mood—soft for fantasy, harsh for sci-fi. Implement a first-person or third-person camera for immersion. {website.name}’s visual scripting simplifies complex mechanics like AI or combat systems. Optimize performance by limiting draw calls and using LOD models. Test your world on multiple platforms to ensure compatibility. Community collaboration tools let your team work in real-time. Focus on storytelling to make your world memorable. Avoid overloading with too many assets; keep it balanced. Experiment with physics for dynamic interactions, like destructible objects. Tutorials on {website.name} can guide your process. Share your game easily with our export tools. Your 3D masterpiece awaits!",
+        "icon": "cpu",
+        "date": "August 10, 2025"
+      },
+      {
+        "id": 3,
+        "title": "Blending 2D and 3D: Hybrid Game Design",
+        "content": "Hybrid games combine the charm of 2D with the depth of 3D, and {website.name} makes it seamless. Start with a 2D art style for characters but place them in a 3D environment. This creates a unique aesthetic, like modern retro games. Use our visual scripting to handle 2D sprite animations within a 3D space. Add depth with parallax backgrounds or 3D camera effects. Our asset library has both 2D sprites and 3D models to mix and match. Test gameplay to ensure controls feel intuitive across dimensions. Export to multiple platforms with one click. Collaborate with others to polish your hybrid design. Avoid overcomplicating mechanics; keep them accessible. Community feedback on {website.name} can inspire new ideas. Experiment with lighting to enhance the hybrid look. Tutorials guide you through blending techniques. Share your creation and stand out in the gaming world!",
+        "icon": "box",
+        "date": "August 5, 2025"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Inspired to Create?",
+    "subtitle": "Join {website.name} to start building your own 2D and 3D games with our powerful tools."
+  }
+}

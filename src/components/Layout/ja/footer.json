@@ -1,0 +1,57 @@
+{
+  "brand": {
+    "nameAlt": "RightsTrade",
+    "slogan": "2D と 3D エンジン"
+  },
+  "sections": [
+    {
+      "title": "私たちのエンジン",
+      "links": [
+        { "path": "/signup", "label": "サインアップ" },
+        { "path": "/login", "label": "ログイン" }
+      ]
+    },
+    {
+      "title": "プロジェクト",
+      "links": [
+        { "path": "/2dgames", "label": "2D ゲームを作る" },
+        { "path": "/3dgames", "label": "2D ゲームを解除" },
+        { "path": "/refine2dgames", "label": "オープンソース 2D ゲーム" },
+        { "path": "/refine3dgames", "label": "オープンソース 3D ゲーム" },
+        { "path": "/gamecovers", "label": "ゲームカバーを作成" }
+      ]
+    },
+    {
+      "title": "リソース",
+      "links": [
+        { "path": "/access-/-use", "label": "アクセスと利用" },
+        { "path": "/blogs", "label": "ブログ" },
+        { "path": "/contact-us", "label": "お問い合わせ" },
+        { "path": "/teammembers", "label": "チーム" }
+      ]
+    },
+    {
+      "title": "財団",
+      "links": [
+        { "path": "/about", "label": "私たちについて" },
+        { "path": "/doante", "label": "寄付" },
+        { "path": "/privacy", "label": "プライバシー" },
+        { "path": "/terms", "label": "利用規約" }
+      ]
+    }
+  ],
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "d" },
+      { "name": "Twitter", "link": "d" },
+      { "name": "Youtube", "link": "d" },
+      { "name": "LinkedIn", "link": "d" }
+    ]
+  },
+  "copyright": {
+    "text": "著作権 ©",
+    "privacy": "プライバシーポリシー",
+    "cookies": "クッキーポリシー",
+    "terms": "利用規約"
+  }
+}

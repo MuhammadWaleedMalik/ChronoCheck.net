@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "title": "Contactar con {website.name}",
+    "subtitle": "Comunícate con nosotros con tus preguntas, comentarios o ideas para mejorar tu experiencia en {website.name}"
+  },
+  "contact": {
+    "title": "Estamos aquí para ayudarte",
+    "description": "El equipo de {website.name} está dedicado a apoyar a nuestra comunidad de creadores de juegos. Ya sea que tengas una pregunta sobre nuestras herramientas, necesites soporte técnico o quieras compartir tus ideas, estamos a solo un correo electrónico de distancia."
+  },
+  "form": {
+    "title": "Envíanos un mensaje",
+    "fields": {
+      "name": "Nombre completo",
+      "email": "Dirección de correo",
+      "subject": "Asunto",
+      "message": "Tu mensaje",
+      "submit": "Enviar mensaje"
+    }
+  },
+  "cta": {
+    "title": "Únete a nuestra comunidad creativa",
+    "subtitle": "Sé parte de {website.name} y comienza a crear tus juegos mientras te mantienes conectado con nuestro equipo."
+  }
+}

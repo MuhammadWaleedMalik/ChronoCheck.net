@@ -1,0 +1,50 @@
+{
+  "hero": {
+    "title": "我们的服务",
+    "subtitle": "探索 {website.name} 的工具套件，用于创建、优化和增强您的游戏"
+  },
+  "services": {
+    "title": "游戏开发服务",
+    "items": [
+      {
+        "id": 1,
+        "title": "制作2D游戏",
+        "description": "根据您的描述使用 p5.js 生成2D游戏代码",
+        "icon": "code",
+           "path": "/2dgames"
+   },
+      {
+        "id": 2,
+        "title": "制作3D游戏",
+        "description": "使用 Three.js 根据您的想法创建3D游戏代码",
+        "icon": "cpu",
+      "path": "/3dgames"
+        },
+      {
+        "id": 3,
+        "title": "优化2D游戏",
+        "description": "优化您现有的2D游戏代码以获得更好的性能",
+        "icon": "zap",
+        "path": "/refine2dgames"
+      },
+      {
+        "id": 4,
+        "title": "优化3D游戏",
+        "description": "改进和优化您的3D游戏代码",
+        "icon": "zap",
+        "path": "/refine3dgames"
+      },
+      {
+        "id": 5,
+        "title": "制作游戏封面",
+        "description": "为您的游戏设计精美的封面和艺术作品",
+        "icon": "image",
+        "path": "/gamecovers"
+      }
+    ]
+  },
+  "cta": {
+    "title": "准备好开始构建了吗？",
+    "subtitle": "加入 {website.name}，访问我们的所有服务，将您的游戏创意变为现实。"
+  }
+}

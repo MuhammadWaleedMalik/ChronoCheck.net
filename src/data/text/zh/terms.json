@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "title": "条款和条件",
+    "description": "欢迎体验 {website.name} 的条款和条件。这些条款约束您对我们人工智能驱动的数字资产管理平台的使用，包括 ioPilot、ioHub、ioAI、ioPortal 和 ioFlow。通过访问我们的服务，您同意遵守这些条款，这些条款确保公平使用、保护知识产权并为所有用户维护安全环境。{website.name} 致力于透明度，提供清晰的指导方针，说明如何使用我们的平台高效管理数字资产，同时遵循企业级标准。"
+  },
+  "team": {
+    "title": "我们的法律团队",
+    "members": [
+      {
+        "name": "Jay Hajeer",
+        "title": "法律顾问",
+        "bio": "Jay Hajeer，{website.name} 的法律顾问，负责监督我们的条款和条件的制定与执行。凭借在技术法律和人工智能方面的专业知识，Jay 确保我们平台的条款保护用户，同时符合全球法规，促进对我们数字资产管理解决方案的信任和合规性。",
+        "image": "/images/placeholder.jpg"
+      },
+      {
+        "name": "Ali Zaidi",
+        "title": "合规官",
+        "bio": "Ali Zaidi，{website.name} 的合规官，确保我们的条款符合 SOC 2、GDPR 和 HIPAA 标准。他在监管框架方面的深厚知识支持 {website.name} 致力于为各行业管理数字资产提供安全且合规的平台。",
+        "image": "/images/placeholder.jpg"
+      }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "服务使用协议",
+        "description": "通过使用 {website.name}，您同意仅将我们的平台（包括 ioPilot、ioHub、ioAI、ioPortal 和 ioFlow）用于合法目的。用户不得滥用我们的服务，例如尝试访问未经授权的数据、分发恶意内容或干扰平台功能。{website.name} 提供统一的工作空间，用于管理 AWS、Azure 和 Google Drive 等云平台的数字资产。您有责任维护账户凭证的机密性并确保遵守我们的条款。未经授权的使用可能导致账户暂停或终止。{website.name} 保留更新这些条款的权利，以反映服务或法律要求的变化，并通过电子邮件或我们的平台通知。更新后的持续使用即表示接受修订后的条款。我们的平台与 Adobe 和 Microsoft 等工具集成，用户在使用与 {website.name} 结合的第三方服务时必须遵守其条款。",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      },
+      {
+        "title": "知识产权和许可",
+        "description": "{website.name} 授予您非独占、不可转让的许可，允许您根据这些条款使用我们的平台进行数字资产管理。我们平台上的所有内容，包括软件、人工智能算法（如 ioAI）和用户界面，均由 {website.name} 或其许可方拥有，并受知识产权法保护。用户保留其上传内容的所有权，但授予 {website.name} 有限许可，用于处理、存储和分析以提供服务（例如，自动标记、转录）。未经许可，您不得复制、修改或分发我们平台的内容。{website.name} 的 ioPortal 功能允许通过水印和访问控制进行安全共享，但用户必须确保共享内容符合适用法律。违反知识产权条款可能导致账户终止和法律行动。我们鼓励用户向我们的法律团队报告任何知识产权滥用行为。",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f649c962aa9a54261_Aboutimg2.png"
+      },
+      {
+        "title": "责任限制",
+        "description": "{website.name} 以“现状”提供其服务，不保证无中断或无错误运行。虽然我们努力实现90%的文件检索速度提升和与 Adobe 及 Avid 等工具的无缝集成，{website.name} 不对因服务中断、数据丢失或第三方行为（例如云存储提供商）引起的损害负责。用户负责备份其数据并确保遵守自己的监管要求。{website.name} 的责任限于服务费用（如果适用）。我们不对间接损害负责，例如利润损失或商业机会损失。我们的平台安全功能，包括端到端加密和多因素身份验证，旨在保护您的数据，但用户必须为账户访问实施自己的安全措施。如需责任条款的澄清，请联系我们的法律团队。",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74acc1e5c9c760d8e93_Inovation.jpg"
+      },
+      {
+        "title": "终止和暂停",
+        "description": "{website.name} 可能因违反这些条款（例如未经授权的访问、滥用人工智能功能（如 ioPilot、ioAI）或未能履行支付义务）而暂停或终止您的账户。终止后，对我们平台（包括 ioHub 和 ioPortal）的访问将被撤销，数据可能根据我们的隐私政策删除。用户可随时通过联系我们的支持团队终止账户，但须履行任何未尽义务。{website.name} 将依法提供终止通知。我们保留调查和对违规行为采取法律行动的权利。我们的无代码工作流程引擎 ioFlow 支持账户状态变更的自动通知，确保透明度。{website.name} 可自行决定在违规问题解决后恢复账户。",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74a7b133b8f9e34f88d_Ethical%20Leadership.jpg"
+      }
+    ]
+  },
+  "additional": {
+    "items": [
+      {
+        "title": "用户行为",
+        "description": "用户不得从事损害 {website.name} 平台的行为，例如上传恶意内容、试图绕过安全措施或将我们的服务用于非法目的。您同意遵守所有适用法律并尊重其他用户的权利。"
+      },
+      {
+        "title": "支付条款",
+        "description": "如适用，用户同意按照我们的定价条款支付 {website.name} 服务的费用。未支付可能导致服务暂停。{website.name} 不直接存储支付信息，依赖安全第三方处理器。"
+      },
+      {
+        "title": "争议解决",
+        "description": "因这些条款引起的任何争议将通过具有约束力的仲裁解决，除非法律另有要求。请联系 {website.name} 的法律团队以启动争议解决程序。我们致力于公平、迅速地解决问题。"
+      },
+      {
+        "title": "第三方服务",
+        "description": "{website.name} 与 AWS、Google Drive 和 Adobe 等第三方平台集成。用户在使用与我们平台结合的这些服务时，须遵守其条款。{website.name} 对第三方服务问题不承担责任。"
+      }
+    ]
+  },
+  "cta": {
+    "title": "联系我们的法律团队",
+    "description": "对我们的条款和条件有疑问？请联系 {website.name} 的法律团队以获取澄清或讨论您作为用户的义务。我们致力于确保您了解如何负责任地使用我们的人工智能驱动平台。",
+    "linkText": "联系我们"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Sobre Nosotros",
+    "description": "{website.name} nació como una visión que se transformó en un proyecto apasionante a principios de 2020, fundado por el líder de la industria y emprendedor Jay Hajeer. Con una gran experiencia y una profunda fascinación por la inteligencia artificial, Jay se propuso revolucionar la forma en que las empresas gestionan sus activos digitales. Su objetivo era crear una solución flexible, impulsada por IA, que remodelara la industria de los activos digitales. Lo que comenzó como un pequeño equipo de desarrolladores dedicados se ha convertido en una plataforma sólida y multifacética que aprovecha la computación avanzada y las tecnologías de IA. Hoy en día, {website.name} es un testimonio de innovación y colaboración, ofreciendo a las empresas soluciones fluidas para integrar tecnología y operaciones, desbloqueando posibilidades más allá de lo imaginable. En {website.name}, nos impulsa la búsqueda de redefinir la relación entre los negocios y la tecnología, empoderando a las organizaciones para lograr resultados extraordinarios."
+  },
+  "team": {
+    "members": [
+      {
+        "name": "Jay Hajeer",
+        "title": "CEO/Fundador",
+        "bio": "Jay Hajeer es el fundador y CEO de {website.name} Corp., un líder visionario que está transformando la industria de la gestión de activos digitales con tecnologías de vanguardia en IA y Generative AI. Con amplia experiencia en ingeniería y emprendimiento, Jay impulsa la dirección estratégica y los esfuerzos de innovación de {website.name}.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8v0b20j64kqwFn-EZf3rec309YPYazxEnSQ&s"
+      },
+      {
+        "name": "Ali Zaidi",
+        "title": "CTO",
+        "bio": "Ali Zaidi, CTO de {website.name}, se alinea estrechamente con el enfoque visionario del fundador Jay Hajeer para revolucionar la gestión de activos digitales. Su experiencia técnica garantiza la solidez, escalabilidad e integración fluida de la IA en la plataforma.",
+   "image": "https://www.shutterstock.com/image-photo/happy-mid-aged-business-man-260nw-2307212331.jpg"
+           }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "Nuestro Recorrido",
+        "description": "{website.name} nació como una visión que se transformó en un proyecto apasionante a principios de 2020, fundado por el líder de la industria y emprendedor Jay Hajeer. Con una gran experiencia y una profunda fascinación por la inteligencia artificial, Jay se propuso revolucionar la forma en que las empresas gestionan sus activos digitales. Su objetivo era crear una solución flexible, impulsada por IA, que remodelara la industria de los activos digitales. Lo que comenzó como un pequeño equipo de desarrolladores dedicados se ha convertido en una plataforma sólida y multifacética que aprovecha la computación avanzada y las tecnologías de IA. Hoy en día, {website.name} es un testimonio de innovación y colaboración, ofreciendo a las empresas soluciones fluidas para integrar tecnología y operaciones, desbloqueando posibilidades más allá de lo imaginable. En {website.name}, nos impulsa la búsqueda de redefinir la relación entre los negocios y la tecnología, empoderando a las organizaciones para lograr resultados extraordinarios.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      },
+      {
+        "title": "Nuestra Misión",
+        "description": "Transformar la manera en que el mundo interactúa con el contenido digital aprovechando las capacidades incomparables de la IA y la Generative AI. En {website.name}, empoderamos a las empresas para evolucionar sus activos digitales en ecosistemas inteligentes y dinámicos que impulsan la innovación, despiertan la creatividad y redefinen el futuro de la colaboración entre humanos y máquinas. Nuestra misión también incluye proporcionar herramientas que optimicen los flujos de trabajo, refuercen la seguridad y promuevan prácticas digitales sostenibles.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f649c962aa9a54261_Aboutimg2.png"
+      },
+      {
+        "title": "Nuestra Visión",
+        "description": "Liderar el camino hacia un futuro donde la IA y la Generative AI expandan los límites del contenido digital, creando un mundo donde los activos piensen, se adapten e innoven. {website.name} aspira a ser el catalizador de una transformación global hacia ecosistemas digitales inteligentes y autoevolutivos, impulsando una innovación ilimitada y redefiniendo la forma en que la humanidad interactúa con la tecnología. Visualizamos una integración fluida de la IA en las operaciones empresariales diarias, haciendo que la tecnología avanzada sea accesible para todas las organizaciones sin importar su tamaño.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74acc1e5c9c760d8e93_Inovation.jpg"
+      },
+      {
+        "title": "Innovación Constante",
+        "description": "Impulsamos continuamente los límites para redefinir la gestión de activos digitales a través de tecnologías de vanguardia en IA y Generative AI. Nuestro compromiso con la innovación incluye investigación continua, incorporación de retroalimentación de los usuarios y adaptación a las tendencias emergentes en IA, computación en la nube y seguridad de datos.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74a7b133b8f9e34f88d_Ethical%20Leadership.jpg"
+      }
+    ]
+  },
+  "additional": {
+    "items": [
+      {
+        "title": "Empoderamiento Centrado en el Cliente",
+        "description": "Priorizamos comprender y abordar los desafíos de los clientes, ofreciendo soluciones que inspiran el éxito y fomentan el crecimiento. Nuestro enfoque incluye soporte personalizado, actualizaciones regulares basadas en las necesidades de los usuarios y funciones escalables para empresas de todos los tamaños."
+      },
+      {
+        "title": "Evolución Adaptativa",
+        "description": "Adoptamos el cambio como un catalizador para el crecimiento, manteniéndonos ágiles y proactivos en un panorama digital en rápida evolución. Este valor impulsa nuestra mejora continua y nuestra capacidad para adaptarnos rápidamente a las demandas del mercado y los avances tecnológicos."
+      },
+      {
+        "title": "Colaboración en el Núcleo",
+        "description": "Fomentamos una cultura de comunicación abierta y trabajo en equipo, colaborando de manera fluida con clientes, socios y comunidades para impulsar la innovación. Nuestro ecosistema colaborativo incluye integraciones de API, programas de socios y foros comunitarios para compartir conocimiento."
+      },
+      {
+        "title": "Sostenibilidad e Impacto",
+        "description": "Nos enfocamos en crear soluciones que satisfagan las necesidades actuales mientras contribuyen a un ecosistema digital sostenible y orientado al futuro. Esto incluye modelos de IA eficientes en energía, prácticas de minimización de datos y apoyo a iniciativas ecológicas en la gestión de activos digitales."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Eleva tus Activos Digitales con {website.name}",
+    "description": "Aprovecha la IA para potenciar tu biblioteca multimedia, optimizar flujos de trabajo y mejorar la colaboración, manteniendo tus activos seguros y organizados. Nuestra plataforma ofrece funciones de nivel empresarial con interfaces intuitivas, garantizando la máxima productividad y retorno de inversión para tu equipo.",
+    "linkText": "¡Conéctate ahora con un experto de {website.name}!"
+  }
+}

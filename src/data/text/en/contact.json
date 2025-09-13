@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "title": "Contact {website.name}",
+    "subtitle": "Reach out to us with your questions, feedback, or ideas to enhance your {website.name} experience"
+  },
+  "contact": {
+    "title": "We're Here to Help",
+    "description": "The {website.name} team is dedicated to supporting our community of game creators. Whether you have a question about our tools, need technical support, or want to share your ideas, we're just an email away."
+  },
+  "form": {
+    "title": "Send Us a Message",
+    "fields": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message"
+    }
+  },
+  "cta": {
+    "title": "Join Our Creative Community",
+    "subtitle": "Become part of {website.name} and start building your games while staying connected with our team."
+  }
+}

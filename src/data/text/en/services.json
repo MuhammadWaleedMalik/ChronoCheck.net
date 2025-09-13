@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "title": "{website.name} Services",
+    "subtitle": "{website.name} offers a suite of AI-powered digital asset management services designed to streamline workflows, enhance collaboration, and unlock the value of your content. From ioPilot’s natural-language search to ioHub’s unified storage workspace, our services integrate with tools like Adobe and Microsoft, delivering 90% faster file retrieval and saving teams up to 30 hours weekly. Built for creative teams managing petabytes of data, {website.name} ensures enterprise-grade security, compliance with SOC 2, GDPR, and HIPAA, and seamless automation through ioFlow. Explore our services to transform how you manage, organize, and share digital assets efficiently."
+  },
+  "services": {
+    "title": "Our Core Services",
+    "items": [
+      {
+        "id": 1,
+        "title": "ioPilot: AI-Powered Search",
+        "description": "{website.name}’s ioPilot revolutionizes digital asset management with AI-driven, natural-language search. Unlike traditional systems reliant on filenames or folders, ioPilot allows users to query content intuitively, such as “Find videos with CEO discussing Q3 targets.” It summarizes documents and videos in seconds, achieving 90% faster file retrieval. Integrated with ioHub, ioPilot connects to cloud platforms like AWS and Google Drive, ensuring seamless access. With enterprise-grade security, including end-to-end encryption and MFA, ioPilot protects sensitive data while enabling creative teams to focus on content creation rather than file hunting. Trigger workflows like file routing or notifications directly from search results, enhancing productivity and collaboration across media and marketing teams.",
+        "icon": "code"
+      },
+      {
+        "id": 2,
+        "title": "ioHub: Unified Storage Workspace",
+        "description": "ioHub by {website.name} unifies disparate storage systems into a single, intelligent workspace, connecting Google Drive, SharePoint, Dropbox, OneDrive, AWS, Azure, and more. It auto-indexes metadata, file types, and visual content, eliminating tab overload and reducing duplicates. With live sync and role-based access controls, ioHub ensures secure, compliant data management, adhering to SOC 2, GDPR, and HIPAA standards. Teams save up to 30 hours weekly by streamlining asset access and organization. ioHub’s integration with Adobe and Microsoft tools allows users to work within familiar environments, boosting efficiency for media companies managing petabytes or marketing teams handling creative files.",
+        "icon": "cpu"
+      },
+      {
+        "id": 3,
+        "title": "ioAI: Intelligent Content Analysis",
+        "description": "{website.name}’s ioAI goes beyond basic tagging to understand the content of images, videos, audio, and documents. It auto-tags faces, scenes, brands, and emotional tone, and instantly transcribes, translates, and summarizes longform content. Capable of detecting anomalies or brand misuse at scale, ioAI enhances content organization for creative teams. Integrated with ioFlow, it automates workflows based on content insights, such as routing sensitive files to compliance folders. ioAI’s enterprise-grade security ensures data protection, making it ideal for media companies managing large datasets or marketing teams needing precise content insights, all while maintaining compliance with global regulations.",
+        "icon": "zap"
+      },
+      {
+        "id": 4,
+        "title": "ioPortal: Secure Content Sharing",
+        "description": "ioPortal from {website.name} streamlines secure content sharing for external teams, clients, and partners. Replacing chaotic file links, it offers branded, trackable portals with watermarking, expiry dates, and access-level controls. Ideal for creative reviews and production workflows, ioPortal allows direct feedback and approvals within the platform. Integrated with ioHub and ioAI, it ensures secure, compliant sharing across cloud platforms. With features like audit logs and activity tracking, ioPortal supports enterprise-grade governance, saving time and reducing errors. Teams can collaborate seamlessly, ensuring content delivery aligns with {website.name}’s commitment to efficiency and security.",
+        "icon": "image"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Transform Your Workflow with {website.name}",
+    "subtitle": "Ready to streamline your digital asset management? {website.name}’s AI-powered services, including ioPilot, ioHub, ioAI, and ioPortal, empower creative teams to work faster, collaborate smarter, and stay compliant. With integrations for Adobe, Microsoft, and Avid, our platform saves up to 30 hours weekly and delivers 50% faster results than traditional solutions. Contact our team to explore how {website.name} can revolutionize your content workflows with enterprise-grade security and automation.",
+    "lastUpdated": "August 23, 2025"
+  }
+}

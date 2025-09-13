@@ -1,0 +1,57 @@
+{
+  "brand": {
+    "nameAlt": "RightsTrade",
+    "slogan": "Motor 2D y 3D"
+  },
+  "sections": [
+    {
+      "title": "Nuestro Motor",
+      "links": [
+        { "path": "/signup", "label": "Registrarse" },
+        { "path": "/login", "label": "Iniciar sesión" }
+      ]
+    },
+    {
+      "title": "Proyecto",
+      "links": [
+        { "path": "/2dgames", "label": "Crear juegos 2D" },
+        { "path": "/3dgames", "label": "Desbloquear juegos 2D" },
+        { "path": "/refine2dgames", "label": "Juegos 2D de código abierto" },
+        { "path": "/refine3dgames", "label": "Juegos 3D de código abierto" },
+        { "path": "/gamecovers", "label": "Crear portadas de juegos" }
+      ]
+    },
+    {
+      "title": "Recursos",
+      "links": [
+        { "path": "/access-/-use", "label": "Acceso y uso" },
+        { "path": "/blogs", "label": "Blogs" },
+        { "path": "/contact-us", "label": "Contacto" },
+        { "path": "/teammembers", "label": "Equipo" }
+      ]
+    },
+    {
+      "title": "Fundación",
+      "links": [
+        { "path": "/about", "label": "Sobre nosotros" },
+        { "path": "/doante", "label": "Donar" },
+        { "path": "/privacy", "label": "Privacidad" },
+        { "path": "/terms", "label": "Términos" }
+      ]
+    }
+  ],
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "d" },
+      { "name": "Twitter", "link": "d" },
+      { "name": "Youtube", "link": "d" },
+      { "name": "LinkedIn", "link": "d" }
+    ]
+  },
+  "copyright": {
+    "text": "Derechos de autor ©",
+    "privacy": "Política de privacidad",
+    "cookies": "Política de cookies",
+    "terms": "Términos de servicio"
+  }
+}

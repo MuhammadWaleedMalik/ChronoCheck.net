@@ -1,0 +1,13 @@
+{
+  "logoAlt": "{websiteName} ロゴ",
+  "nav": {
+    "Solutions": "ソリューション",
+    "login": "ログイン",
+    "signup": "登録",
+    "logout": "ログアウト"
+  },
+  "languageSelector": {
+    "heading": "言語",
+    "changeLanguageLabel": "言語を変更"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "Media & Press",
+    "description": "Welcome to the {website.name} media page, your source for the latest press releases, news, and updates on our AI-powered solutions for digital asset management. Discover how {website.name} is revolutionizing the way teams handle content, from storage unification to intelligent workflows. Stay informed about our innovations, partnerships, and success stories."
+  },
+  "media": {
+    "title": "Latest Press Releases",
+    "releases": [
+      {
+        "title": "{website.name} Enhances Digital Asset Management with AI-Powered Search",
+        "content": "{website.name} introduces ioPilot, enabling teams to chat with their digital library using natural language, summarizing documents and videos in seconds, and triggering workflows like file routing. Achieves 90% faster file retrieval compared to traditional solutions.\n\nThis innovation allows users to ask anything, such as “Find videos with CEO talking about Q3 targets” or “Send this to the compliance folder and notify me”.\n\nBuilt for creative teams, {website.name} connects all storage and lets AI handle search, transcription, tagging, and delivery - so teams can create faster, collaborate smoothly, and never miss a deadline.\n\nFrom media companies managing petabytes of footage to marketing teams buried in creative files, {website.name} centralizes, organizes, and unlocks the value of digital assets with advanced AI.\n\nioPilot understands content, not just stores it, revolutionizing how organizations interact with their digital libraries.",
+        "date": "August 20, 2025",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      },
+      {
+        "title": "{website.name} Launches Unified Workspace for Cloud Storage Integration",
+        "content": "{website.name} launches ioHub, connecting Google Drive, SharePoint, Dropbox, OneDrive, AWS, Azure, and more into a single smart workspace, auto-indexing metadata and reducing tab overload, saving teams up to 30 hours weekly on digital asset management tasks.\n\nThis unified workspace enforces access control with live sync and user permissions, connecting to 10+ cloud and on-prem systems.\n\nioHub is part of {website.name}'s suite that unifies storage and leverages AI for intelligent content management.\n\nTeams achieve 50% faster results than traditional solutions, with 90% faster file retrieval through natural-language AI search.\n\n{website.name} is designed for organizations with strict data governance, offering enterprise-grade security and compliance.",
+        "date": "August 15, 2025",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f649c962aa9a54261_Aboutimg2.png"
+      },
+      {
+        "title": "{website.name} Expands AI Capabilities with ioAI for Content Intelligence",
+        "content": "{website.name} expands AI capabilities with ioAI, which now auto-tags faces, scenes, brands, emotional tone, transcribes, translates, and summarizes longform content, and detects anomalies at scale, enhancing organization for images, videos, audio, and documents.\n\nioAI goes deeper than tags, understanding what’s inside content automatically.\n\nThis feature is integrated into {website.name}'s platform, built for creative teams needing more than just storage.\n\nWith ioAI, teams can detect brand misuse or key visual moments, streamlining workflows and boosting collaboration.\n\n{website.name} offers native integrations with Adobe, Microsoft, and Avid tools, fitting how teams already work.",
+        "date": "August 10, 2025",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74acc1e5c9c760d8e93_Inovation.jpg"
+      },
+      {
+        "title": "{website.name} Integrates with Adobe and Microsoft for Seamless Workflow",
+        "content": "{website.name} announces native integrations with Adobe (Photoshop, Premiere Pro, After Effects, XD) and Microsoft (Word, Excel, PowerPoint, Outlook), allowing users to access and interact with digital assets directly within these tools, improving productivity without platform switching.\n\nThese integrations fit how teams already work, with no downloads or switching required.\n\n{website.name} also integrates with Avid Media Composer, enhancing workflows for media professionals.\n\nThis update is part of {website.name}'s commitment to transforming digital assets into intelligent, dynamic ecosystems.\n\nTeams can now manage petabytes of assets more efficiently, with AI handling search and organization.",
+        "date": "August 5, 2025",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74a7b133b8f9e34f88d_Ethical%20Leadership.jpg"
+      },
+      {
+        "title": "Voice of America Case Study: Managing 20 Petabytes with {website.name}’s AI",
+        "content": "Voice of America leverages {website.name} to make 20 petabytes of assets intelligent, transforming scattered files into a unified, intelligent content engine.\n\nWith {website.name}, Voice of America finds assets faster, automates grunt work, and collaborates without chaos, powered by enterprise-grade AI.\n\nThe implementation highlights {website.name}'s ability to handle large-scale data, with features like ioHub for unification and ioAI for content intelligence.\n\nThis case study demonstrates how {website.name} saves time and enhances productivity for media companies.\n\n{website.name} is compliant with SOC 2, GDPR, and HIPAA, ensuring secure data management for organizations like Voice of America.",
+        "date": "July 30, 2025",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Stay Updated with {website.name}",
+    "description": "Subscribe to our media updates for the latest press releases, news, and insights on AI-powered digital asset management. Join the {website.name} community to stay ahead in game development and content innovation.",
+    "linkText": "Subscribe Now"
+  }
+}

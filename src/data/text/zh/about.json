@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "关于我们",
+    "description": "{website.name} 起源于 2020 年初的一个愿景，并迅速转变为一个充满热情的项目，由行业领袖兼企业家 Jay Hajeer 创立。凭借丰富的经验和对人工智能的浓厚兴趣，Jay 致力于革新企业管理数字资产的方式。他的目标是打造一个灵活的、由 AI 驱动的解决方案，重塑数字资产行业。从一个小型的开发团队起步，{website.name} 已成长为一个强大的多元化平台，利用先进的计算与人工智能技术。如今，{website.name} 作为创新与协作的见证，帮助企业无缝集成技术与运营，释放超乎想象的可能性。在 {website.name}，我们不断追求重新定义商业与科技的关系，助力组织实现非凡成果。"
+  },
+  "team": {
+    "members": [
+      {
+        "name": "Jay Hajeer",
+        "title": "CEO/创始人",
+        "bio": "Jay Hajeer 是 {website.name} 公司的创始人兼 CEO，一位富有远见的领导者，正在以尖端的 AI 和生成式 AI 技术重塑数字资产管理行业。凭借丰富的工程与创业经验，Jay 推动 {website.name} 的战略方向与创新发展。",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8v0b20j64kqwFn-EZf3rec309YPYazxEnSQ&s"
+      },
+      {
+        "name": "Ali Zaidi",
+        "title": "CTO",
+        "bio": "作为 {website.name} 的 CTO，Ali Zaidi 与创始人 Jay Hajeer 的愿景保持高度一致，致力于革新数字资产管理。他的技术专长确保平台的稳健性、可扩展性以及无缝的 AI 集成。",
+        "image": "https://www.shutterstock.com/image-photo/happy-mid-aged-business-man-260nw-2307212331.jpg"
+      }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "我们的历程",
+        "description": "{website.name} 起源于 2020 年初的一个愿景，并迅速转变为一个充满热情的项目，由行业领袖兼企业家 Jay Hajeer 创立。凭借丰富的经验和对人工智能的浓厚兴趣，Jay 致力于革新企业管理数字资产的方式。他的目标是打造一个灵活的、由 AI 驱动的解决方案，重塑数字资产行业。从一个小型的开发团队起步，{website.name} 已成长为一个强大的多元化平台，利用先进的计算与人工智能技术。如今，{website.name} 作为创新与协作的见证，帮助企业无缝集成技术与运营，释放超乎想象的可能性。在 {website.name}，我们不断追求重新定义商业与科技的关系，助力组织实现非凡成果。",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      },
+      {
+        "title": "我们的使命",
+        "description": "通过利用 AI 和生成式 AI 的无与伦比的能力，改变世界与数字内容互动的方式。在 {website.name}，我们赋能企业将数字资产演变为智能、动态的生态系统，推动创新、激发创造力，并重新定义人类与机器的协作未来。我们的使命还包括提供简化工作流程、增强安全性和促进可持续数字实践的工具。",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f649c962aa9a54261_Aboutimg2.png"
+      },
+      {
+        "title": "我们的愿景",
+        "description": "引领未来，让 AI 和生成式 AI 推动数字内容的边界，创造一个资产能够思考、适应和创新的世界。{website.name} 立志成为全球转型的催化剂，推动智能、自我进化的数字生态系统，带来无限创新，重新定义人类与技术的互动。我们设想 AI 无缝融入日常商业运营，让各类规模的组织都能触及先进科技。",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74acc1e5c9c760d8e93_Inovation.jpg"
+      },
+      {
+        "title": "持续创新",
+        "description": "我们不断突破边界，通过尖端的 AI 和生成式 AI 技术重新定义数字资产管理。我们的创新承诺包括持续研究、用户反馈的融入，以及适应 AI、云计算和数据安全领域的新兴趋势。",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74a7b133b8f9e34f88d_Ethical%20Leadership.jpg"
+      }
+    ]
+  },
+  "additional": {
+    "items": [
+      {
+        "title": "以客户为中心的赋能",
+        "description": "我们优先理解并解决客户的挑战，提供能够激发成功与促进增长的解决方案。我们的方法包括个性化支持、基于用户需求的定期更新，以及适用于各种规模企业的可扩展功能。"
+      },
+      {
+        "title": "适应性进化",
+        "description": "我们将变化视为增长的催化剂，在快速发展的数字环境中保持敏捷与主动。这一价值观驱动着我们的持续改进和快速响应市场需求及技术进步的能力。"
+      },
+      {
+        "title": "协作核心",
+        "description": "我们培育开放沟通与团队合作的文化，与客户、合作伙伴和社区无缝协作，共同推动创新。我们的协作生态包括 API 集成、合作伙伴计划和社区论坛共享知识。"
+      },
+      {
+        "title": "可持续性与影响",
+        "description": "我们专注于创造既满足当前需求，又能推动可持续与前瞻性数字生态系统的解决方案。这包括高能效 AI 模型、数据最小化实践，以及对绿色数字资产管理倡议的支持。"
+      }
+    ]
+  },
+  "cta": {
+    "title": "与 {website.name} 一起提升您的数字资产",
+    "description": "利用 AI 提升您的媒体库、简化工作流程并增强协作，同时确保资产安全与有序。我们的平台提供企业级功能与直观界面，确保您的团队实现最大生产力和投资回报。",
+    "linkText": "立即联系 {website.name} 专家！"
+  }
+}

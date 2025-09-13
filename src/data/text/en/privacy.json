@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "title": "Privacy Policy",
+    "description": "At {website.name}, we are committed to protecting your privacy and ensuring the security of your digital assets. Our AI-powered platform, designed for seamless digital asset management, adheres to the highest standards of data protection and compliance. Learn how {website.name} safeguards your data through robust encryption, strict access controls, and compliance with global regulations like SOC 2, GDPR, and HIPAA. We empower you with control over your data while delivering intelligent solutions for your team."
+  },
+  "team": {
+    "title": "Our Data Protection Team",
+    "members": [
+      {
+        "name": "Jay Hajeer",
+        "title": "Data Protection Officer",
+        "bio": "Jay Hajeer, as the Data Protection Officer at {website.name}, leads our efforts to ensure compliance with global privacy regulations. With extensive experience in data security and AI, Jay oversees the implementation of robust privacy policies, ensuring your data is protected with enterprise-grade standards.",
+        "image": "/images/placeholder.jpg"
+      },
+      {
+        "name": "Ali Zaidi",
+        "title": "Compliance Lead",
+        "bio": "Ali Zaidi, Compliance Lead at {website.name}, ensures our platform adheres to SOC 2, GDPR, and HIPAA standards. His expertise in regulatory frameworks and AI-driven security solutions guarantees that {website.name} delivers a secure and compliant environment for all users.",
+        "image": "/images/placeholder.jpg"
+      }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "Data Security First",
+        "description": "At {website.name}, data security is our top priority. We implement end-to-end encryption, multi-factor authentication (MFA), and role-based access controls to protect your digital assets. Our platform is built to prevent unauthorized access, ensuring that your content—whether images, videos, or documents—remains secure. Regular security audits and penetration testing are conducted to maintain the highest standards. {website.name} integrates with tools like Adobe and Microsoft, ensuring secure workflows without compromising data integrity. We also provide detailed audit logs and activity tracking for transparency and accountability, empowering you to trust our platform with your most sensitive assets.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      },
+      {
+        "title": "User Control and Transparency",
+        "description": "{website.name} empowers users with full control over their data. Our platform allows you to manage access permissions, set expiry dates for shared links, and track activity with detailed logs. We provide clear, transparent privacy policies, ensuring you understand how your data is collected, stored, and used. With {website.name}, you can request data deletion or export at any time, aligning with GDPR and other regulations. Our ioPortal feature ensures secure sharing with clients and partners, with watermarking and access-level controls to protect your content.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f649c962aa9a54261_Aboutimg2.png"
+      },
+      {
+        "title": "Compliance with Global Standards",
+        "description": "{website.name} is designed for organizations with strict data governance requirements. We are fully compliant with SOC 2, GDPR, and HIPAA standards, ensuring your data meets regulatory requirements. Our platform undergoes regular compliance audits to maintain certifications. {website.name}’s ioHub unifies storage platforms like AWS, Azure, and Google Drive while enforcing compliance through live sync and user permissions. Whether you’re a media company managing petabytes or a small team handling creative assets, {website.name} ensures your data practices align with global standards.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74acc1e5c9c760d8e93_Inovation.jpg"
+      },
+      {
+        "title": "Intelligent Privacy with AI",
+        "description": "{website.name} leverages AI to enhance privacy without compromising functionality. Our ioAI module automatically detects sensitive content, such as personally identifiable information (PII), and applies protective measures like anonymization or restricted access. AI-driven anomaly detection identifies potential security threats, ensuring your assets are safe. {website.name}’s intelligent workflows, powered by ioFlow, allow you to automate privacy-related tasks, such as routing sensitive files to secure folders or notifying compliance teams. This smart approach ensures privacy is built into every aspect of your digital asset management.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74a7b133b8f9e34f88d_Ethical%20Leadership.jpg"
+      }
+    ]
+  },
+  "additional": {
+    "items": [
+      {
+        "title": "Data Minimization",
+        "description": "{website.name} adheres to data minimization principles, collecting only the data necessary to provide our services. We avoid unnecessary data retention and ensure that your digital assets are processed efficiently. Our ioAI module optimizes data handling by auto-tagging and indexing only relevant metadata, reducing storage overhead while maintaining privacy."
+      },
+      {
+        "title": "Secure Integrations",
+        "description": "Our platform integrates securely with tools like Adobe, Microsoft, and Avid, ensuring that your data remains protected during workflows. {website.name} uses encrypted APIs and secure protocols to prevent data leaks, allowing you to work seamlessly within your existing tools while maintaining privacy."
+      },
+      {
+        "title": "User Rights and Support",
+        "description": "{website.name} respects your data rights, including the right to access, correct, or delete your data. Our support team is available to assist with privacy-related inquiries, ensuring you have full control over your assets. Contact us anytime to learn more about your rights or our privacy practices."
+      },
+      {
+        "title": "Regular Security Audits",
+        "description": "To maintain trust, {website.name} conducts regular security audits and vulnerability assessments. Our proactive approach ensures that any potential risks are identified and mitigated promptly, keeping your digital assets secure and compliant with industry standards."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Contact Our Privacy Team",
+    "description": "Have questions about how {website.name} protects your data? Reach out to our dedicated privacy team to learn more about our policies, request data access, or discuss compliance needs. We’re here to ensure your trust in our AI-powered platform.",
+    "linkText": "Get in Touch"
+  }
+}

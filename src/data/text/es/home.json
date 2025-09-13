@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "title": "La Base de Datos Global de Relojes Perdidos, Robados y Falsificados",
+    "subtitle": "Protección máxima para el mercado de relojes de lujo de segunda mano",
+    "cta": "Registra tu reloj ahora"
+  },
+  "stats": {
+    "title": "Nuestro Impacto en Números",
+    "stats": [
+      {
+        "number": "110.000+",
+        "label": "relojes perdidos/robados registrados"
+      },
+      {
+        "number": "5",
+        "label": "relojes perdidos/robados localizados por día"
+      },
+      {
+        "number": "50 %",
+        "label": "de relojes recuperados encontrados dentro del primer año"
+      }
+    ],
+    "brandsText": "Se pueden verificar todas las marcas de lujo, incluyendo: Rolex, Omega, Patek Philippe, Audemars Piguet y más"
+  },
+  "features": {
+    "title": "Consulta la base de datos",
+    "subtitle": "Nuestra tecnología avanzada y red global te brindan la mejor oportunidad de recuperar tu valioso reloj",
+    "listItems": [
+      "Compra y vende con tranquilidad",
+      "Evita pérdidas económicas",
+      "Protege tu reputación",
+      "Certificado de búsqueda como prueba de chequeo de robo"
+    ],
+    "ctaPrimary": "Comienza hoy",
+    "ctaSecondary": "¿Ya eres miembro? Inicia sesión"
+  },
+  "about": {
+    "title": "Registra una pérdida",
+    "subtitle": "Asegura la mejor oportunidad de recuperación",
+    "description": "Tu reloj será registrado en la mayor base de datos internacional de robos, utilizada por distribuidores, joyeros, casas de empeño y subastas para identificar piezas robadas. Buscaremos activamente tu reloj en el mercado global de relojes de segunda mano hasta que sea recuperado."
+  },
+  "blogs": {
+    "title": "¿Cómo podemos ayudarte?",
+    "cards": [
+      {
+        "title": "Cómo asegurar correctamente tu reloj de lujo",
+        "description": "Descubre las mejores prácticas para asegurar tu valioso reloj contra robo, pérdida o daño.",
+        "link": "/blog/insuring-luxury-watch"
+      },
+      {
+        "title": "Los modelos de relojes más objetivo de 2023",
+        "description": "Descubre qué modelos de relojes de lujo son más frecuentemente objetivo de robos y cómo protegerlos.",
+        "link": "/blog/targeted-watch-models"
+      },
+      {
+        "title": "Historia de éxito: recuperando un Patek Philippe robado",
+        "description": "Lee cómo nuestro equipo trabajó con autoridades internacionales para recuperar una pieza de $150,000.",
+        "link": "/blog/patek-recovery-story"
+      },
+      {
+        "title": "Comprendiendo los números de serie de los relojes",
+        "description": "Guía para localizar y registrar el número de serie de tu reloj con fines de registro.",
+        "link": "/blog/serial-numbers-guide"
+      },
+      {
+        "title": "Viajar con seguridad con relojes de lujo",
+        "description": "Consejos esenciales para proteger tus relojes de alto valor durante viajes internacionales.",
+        "link": "/blog/traveling-with-watches"
+      },
+      {
+        "title": "La tecnología detrás de nuestro sistema de recuperación",
+        "description": "Una mirada interna a la tecnología avanzada que impulsa nuestra plataforma de recuperación de relojes.",
+        "link": "/blog/recovery-technology"
+      }
+    ]
+  },
+  "ctaSection": {
+    "title": "Un enfoque liderado por expertos y potenciado por tecnología para combatir el crimen relojero.",
+    "ctaText": "Registra tu reloj ahora",
+    "ctaLink": "/register"
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros clientes",
+    "items": [
+      {
+        "quote": "Después de que mi Rolex fue robado durante un viaje a Barcelona, pensé que lo había perdido para siempre. Gracias a {website.name}, fue recuperado en 3 meses y devuelto en perfectas condiciones.",
+        "name": "James Wilson",
+        "role": "Rolex Submariner recuperado"
+      },
+      {
+        "quote": "El proceso de registro fue sencillo, y cuando mi Audemars Piguet fue robado, el equipo me guió en cada paso. Su profesionalismo me dio esperanza en esos momentos estresantes.",
+        "name": "Sarah Johnson",
+        "role": "Audemars Piguet Royal Oak recuperado"
+      },
+      {
+        "quote": "Como coleccionista con más de 20 piezas de lujo, la tranquilidad no tiene precio. Ellos me la proporcionan exactamente con sus servicios de protección integral.",
+        "name": "Michael Chen",
+        "role": "Coleccionista de relojes de lujo"
+      },
+      {
+        "quote": "Al principio era escéptico, pero cuando mi Omega vintage fue localizado en una casa de subastas extranjera, me convertí en creyente. El proceso de recuperación fue impecable.",
+        "name": "Robert Williams",
+        "role": "Omega Speedmaster vintage recuperado"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Sobre nosotros",
+    "description": "THE {website.name} es la base de datos global líder en relojes perdidos y robados. Tenemos operaciones internacionales con sede en Londres y formamos parte del Art Loss Register. Nuestra reputación se basa en 35 años de experiencia protegiendo el comercio, colaborando de cerca con agencias de aplicación de la ley y recuperando con éxito cientos de millones de libras en propiedades perdidas y robadas. THE WATCH REGISTER ofrece a compradores y comerciantes la búsqueda más confiable para verificar si un Rolex u otra marca de reloj está robado. Nuestros servicios especializados de recuperación ofrecen a las víctimas del robo y aseguradoras la mejor posibilidad de recuperar sus propiedades legítimas.",
+    "formTitle": "Crea tu cuenta"
+  }
+}

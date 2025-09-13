@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "title": "Support {website.name}",
+    "subtitle": "Your donation helps us keep {website.name} free and accessible for game creators worldwide"
+  },
+  "donation": {
+    "title": "Why Donate?",
+    "description": "Your contributions fuel the development of new features, maintain our platform, and support our community of creators. Every donation, big or small, helps {website.name} empower game developers to bring their ideas to life."
+  },
+  "form": {
+    "title": "Make a Donation",
+    "fields": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "amount": "Donation Amount (USD)",
+      "paymentMethod": "Payment Method",
+      "submit": "Submit Donation"
+    }
+  },
+  "cta": {
+    "title": "Thank You for Your Support!",
+    "subtitle": "Join {website.name} and start creating games while supporting our mission to make game development accessible to all."
+  }
+}

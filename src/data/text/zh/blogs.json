@@ -1,0 +1,51 @@
+{
+  "hero": {
+    "title": "探索 {website.name} 博客",
+    "description": "欢迎体验 {website.name} 博客，这是您获取人工智能驱动的数字资产管理见解、技巧和更新的首选资源。发现专家建议、行业趋势以及 {website.name} 如何革新协作、资产搜索和工作流程自动化的幕后故事。无论您是媒体专业人士、营销人员还是企业领导者，我们的博客都提供有价值的内容来优化您的数字资产工作流程。"
+  },
+  "blogs": {
+    "title": "最新文章",
+    "posts": [
+      {
+        "title": "使用 {website.name} 的 ioPilot 掌握数字资产管理",
+        "content": "高效管理数字资产需要的不仅仅是存储——它需要智能。{website.name} 的 ioPilot 是一款人工智能驱动的对话工具，改变了团队与其数字图书馆的交互方式。与依赖文件名或文件夹的传统系统不同，ioPilot 让您可以像与智能助手对话一样与资产互动。例如，您可以询问：“查找我们的 CEO 讨论第三季度目标的视频”，ioPilot 会使用自然语言搜索即时检索相关文件。它可以在几秒钟内总结数小时的视频或整个文档，节省宝贵时间。团队还可以直接触发工作流程，例如将文件发送到合规文件夹并自动通知。ioPilot 与 {website.name} 平台的整合确保了在 Adobe Premiere Pro 或 Microsoft Word 等工具中的无缝访问，保持工作流程不中断。通过利用 ioPilot 的高级人工智能，团队可以将资产检索时间缩短高达90%，正如管理PB级内容的用户轻松展示的那样。对于初学者，{website.name} 提供30天免费试用以探索 ioPilot 的功能。ioPilot 与 ioHub 整合，统一 Google Drive 和 AWS 等存储平台，简化协作。定期的测试和用户反馈确保 ioPilot 适应现实世界的需求，使其成为创意和企业团队释放资产全部潜力的变革者。",
+        "author": "Jay Hajeer",
+        "date": "2025年8月15日",
+        "image": "https://cdn.prod.website-files.com/67588292e9cff3b01f7e95a1/680d0f758b6b294be64599f2_67588cf47419fd4747f7e86e_66f583092f001ec45d03dbc7_ioMoVo%2525E2%252580%252599s%252520Workflow%252520Automation-%252520Redefining%252520Content%252520Creation%252520and%252520Distribution.avif"
+      },
+      {
+        "title": "使用 {website.name} 的 ioHub 统一您的存储",
+        "content": "分散在 Google Drive、Dropbox 和 Azure 等多个平台上的文件会降低生产力并造成混乱。{website.name} 的 ioHub 通过将超过10个云端和本地存储系统统一到一个智能工作空间来解决这个问题。使用 ioHub，您可以访问、管理和协作数字资产，无需切换标签或处理重复文件。ioHub 自动索引元数据、文件类型和视觉内容，确保您的资产井然有序且易于搜索。它强制执行基于角色的访问控制和实时同步，只有授权团队成员才能访问敏感文件，符合 SOC 2、GDPR 和 HIPAA 标准。例如，营销团队可以将他们的 SharePoint 和 AWS 账户连接到 ioHub，在一个界面中即时访问所有创意文件。{website.name} 与 Adobe After Effects 和 Microsoft Excel 等工具的整合允许用户在他们喜欢的应用程序中直接工作，简化工作流程。通过集中存储，ioHub 每周为团队节省高达30小时的资产管理任务时间。通过与 ioPortal 的整合，ioHub 增强了与外部合作伙伴的安全共享协作。跨设备测试确保兼容性，{website.name} 的资源帮助团队优化设置。使用 ioHub，您可以将分散的文件转变为一个连贯、智能的内容引擎，提升效率和控制力。",
+        "author": "Ali Zaidi",
+        "date": "2025年8月10日",
+        "image": "https://cdn.prod.website-files.com/67588292e9cff3b01f7e95a1/680d0f3b72d2c51bf8a30c85_67588cc7b419d8f057ad3e53_65a56948dfb09cc28e737a9a_The%252520Role%252520of%252520Archives%252520in%252520Preserving%252520Cultural%252520Heritage%252520and%252520Identity.avif"
+      },
+      {
+        "title": "使用 {website.name} 的 ioFlow 优化工作流程",
+        "content": "手动工作流程可能会成为创意和企业项目的瓶颈，但 {website.name} 的 ioFlow 提供了一个无需编码的解决方案来自动化和简化流程。使用 ioFlow，团队可以通过拖放构建工作流程，处理路由、审批、通知和资产交接，无需 IT 专业知识。例如，媒体公司可以按内容类型自动路由文件，将视频文件发送给 Adobe Premiere Pro 的编辑，同时触发合规警报。ioFlow 跨 OneDrive 和 Google Drive 等平台同步文件夹，确保无缝协作。它与 {website.name} 的其他模块（如 ioHub 和 ioPortal）整合，创建端到端的工作流程。通过自动化重复任务，ioFlow 每周节省高达30小时，让团队专注于创造力。任务状态的实时可见性——如“可用”、“进行中”或“已完成”——增强了资源规划。{website.name} 的企业级安全，包括端到端加密和审计日志，确保符合 SOC 2 等标准。在现实场景中测试工作流程确保满足团队需求。{website.name} 的教程指导用户设置自定义工作流程，使 ioFlow 成为媒体、营销和生产团队提升效率并保持对复杂项目控制的理想选择。",
+        "author": "Jay Hajeer",
+        "date": "2025年8月5日",
+        "image": "https://cdn.prod.website-files.com/67588292e9cff3b01f7e95a1/681e390dded375a63d84bdf5_How%20DAM%20Improves%20Workflow%20Automation%20in%20Auto%20Finance%20Back%20Offices.jpeg"
+      },
+      {
+        "title": "人工智能在数字资产管理的未来与 {website.name} 的 ioAI",
+        "content": "人工智能正在重新定义数字资产管理，{website.name} 的 ioAI 处于领先地位。与基本的标签系统不同，ioAI 分析图像、视频、音频和文档的内容，提供深入的见解。它自动标记面孔、场景、品牌甚至情感基调，使资产可即时搜索。例如，ioAI 可以大规模检测品牌误用或识别数小时素材中的关键时刻。它还可以在几秒钟内转录、翻译和总结长篇内容，为全球团队简化工作流程。与 Avid Media Composer 等工具整合，ioAI 确保资产在您的创意环境中可访问。通过利用生成式人工智能，ioAI 提供高级分析和内容重用。这将文件检索时间缩短高达90%，并增强团队间的协作。{website.name} 对道德人工智能的承诺确保了准确性和可用性，并根据用户反馈定期更新。{website.name} 平台上的教程帮助团队充分利用 ioAI 的功能，使其成为管理PB级数据的媒体公司或组织创意资产的营销团队的理想选择。使用 ioAI，您的数字资产成为驱动创新的动态、智能生态系统。",
+        "author": "Ali Zaidi",
+        "date": "2025年7月30日",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74a7b133b8f9e34f88d_Ethical%20Leadership.jpg"
+      },
+      {
+        "title": "使用 {website.name} 的 ioPortal 简化协作",
+        "content": "与外部合作伙伴协作可能因不安全的文件链接和分散的反馈而变得混乱。{website.name} 的 ioPortal 提供了一个品牌化、安全的解决方案，用于与客户、自由职业者或利益相关者共享数字资产。凭借水印、链接过期和可定制的访问级别等功能，ioPortal 确保对共享内容的完全控制。团队可以在门户内直接收集审批和反馈，非常适合创意审查或生产工作流程。例如，电影制作团队可以与利益相关者共享每日素材，他们可以在 ioPortal 内进行注释和审批，减少电子邮件混乱。与 ioHub 整合，ioPortal 统一来自 Dropbox 和 AWS 等平台的资产，确保无缝访问。其符合 SOC 2 和 GDPR 标准，使其受到具有严格治理需求的企业信任。{website.name} 的移动应用程序扩展了 ioPortal 的功能，允许随时随地协作。测试和用户反馈确保 ioPortal 满足现实世界需求，而 {website.name} 的资源指导团队设置安全门户。通过用结构化协作替换混乱的文件共享，ioPortal 提高效率和安全性，使其成为创意和企业团队简化外部工作流程的必备工具。",
+        "author": "Jay Hajeer",
+        "date": "2025年7月25日",
+        "image": "https://cdn.prod.website-files.com/67588292e9cff3b01f7e95a1/680d0f08fc716f3fc0ac8028_67588cf7d620ee95df67bb9d_6707dfebd03c8efdfdc44789_Enhancing%252520Team%252520Efficiency%252520with%252520ioFlow%252527s%252520Status-Based%252520Workflow%252520Management.avif"
+      }
+    ]
+  },
+  "cta": {
+    "title": "与 {website.name} 保持更新",
+    "description": "订阅我们的博客，获取人工智能驱动的数字资产管理的最新见解、教程和更新。加入 {website.name} 社区，解锁独家内容，将您的资产管理和协作提升到新水平。免费试用 {website.name} 30天，体验智能工作流程的未来。",
+    "linkText": "立即订阅"
+  }
+}

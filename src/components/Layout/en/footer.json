@@ -1,0 +1,52 @@
+{
+  "brand": {
+    "nameAlt": "The Watch Register",
+    "slogan": "Protecting Art and Antiques"
+  },
+  "sections": [
+    {
+      "title": "About us",
+      "links": [
+        { "path": "/faqs", "label": "FAQs" },
+        { "path": "/login", "label": "Login" },
+        { "path": "/my-account", "label": "My Account" },
+        { "path": "/recovery", "label": "Recovery" },
+        { "path": "/art-loss-register", "label": "The Art Loss Register" },
+        { "path": "/contact-us", "label": "Contact us" }
+      ]
+    },
+    {
+      "title": "Auction Houses",
+      "links": [
+        { "path": "/dealers", "label": "Dealers" },
+        { "path": "/insurers", "label": "Insurers" },
+        { "path": "/law-enforcement", "label": "Law Enforcement" },
+        { "path": "/pawnbrokers", "label": "Pawnbrokers" },
+        { "path": "/private-individuals", "label": "Private Individuals" }
+      ]
+    },
+    {
+      "title": "Policies",
+      "links": [
+        { "path": "/search-tcs", "label": "Search T&Cs" },
+        { "path": "/loss-registration-tcs", "label": "Loss Registration T&Cs" },
+        { "path": "/privacy-policy", "label": "Privacy Policy" },
+        { "path": "/cookie-policy", "label": "Cookie Policy" }
+      ]
+    }
+  ],
+  "social": {
+    "links": [
+      { "name": "Twitter", "link": "https://twitter.com" },
+      { "name": "Instagram", "link": "https://instagram.com" },
+      { "name": "LinkedIn", "link": "https://linkedin.com" },
+      { "name": "Facebook", "link": "https://facebook.com" }
+    ]
+  },
+  "copyright": {
+    "text": "©",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy",
+    "terms": ""
+  }
+}

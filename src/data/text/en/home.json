@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "title": "The Global Database of Lost, Stolen and Counterfeit Watches",
+    "subtitle": "Maximum protection for the pre-owned luxury watch market",
+    "cta": "Register Your Watch Now"
+  },
+  "stats": {
+    "title": "Our Impact in Numbers",
+    "stats": [
+      {
+        "number": "110,000+",
+        "label": "lost/stolen watches registered"
+      },
+      {
+        "number": "5",
+        "label": "lost/stolen watches located per day"
+      },
+      {
+        "number": "50%",
+        "label": "of recovered watches found within 1 year of theft"
+      }
+    ],
+    "brandsText": "All luxury brands can be checked including: Rolex, Omega, Patek Philippe, Audemars Piguet, and more"
+  },
+  "features": {
+    "title": "Check the database",
+    "subtitle": "Our advanced technology and global network give you the best chance of recovering your valuable timepiece",
+    "listItems": [
+        "Buy and sell with peace of mind",
+        "Avoid financial loss",
+        "Protect your reputation",
+        "Search Certificate as evidence of your theft checks"
+    ],
+    "ctaPrimary": "Get Started Today",
+    "ctaSecondary": "Already a Member? Login"
+  },
+  "about": {
+    "title": "Register a loss",
+    "subtitle": "Ensure the best chance of recovery",
+    "description": "Your watch will be registered on the largest international theft database used by dealers, jewellers, pawnbrokers and auction houses to identify stolen watches. We will actively search for your watch on the global pre-owned watch market until it is recovered."
+  },
+  "blogs": {
+    "title": "How can we help you?",
+    "cards": [
+      {
+        "title": "How to Properly Insure Your Luxury Watch",
+        "description": "Learn the best practices for insuring your valuable timepiece against theft, loss, and damage.",
+        "link": "/blog/insuring-luxury-watch"
+      },
+      {
+        "title": "The Most Targeted Watch Models of 2023",
+        "description": "Discover which luxury watch models are most frequently targeted by thieves and how to protect them.",
+        "link": "/blog/targeted-watch-models"
+      },
+      {
+        "title": "Success Story: Recovering a Stolen Patek Philippe",
+        "description": "Read how our team worked with international authorities to recover a $150,000 timepiece.",
+        "link": "/blog/patek-recovery-story"
+      },
+      {
+        "title": "Understanding Watch Serial Numbers",
+        "description": "A guide to locating and recording your watch's serial number for registration purposes.",
+        "link": "/blog/serial-numbers-guide"
+      },
+      {
+        "title": "Traveling Safely with Luxury Watches",
+        "description": "Essential tips for protecting your valuable watches while traveling internationally.",
+        "link": "/blog/traveling-with-watches"
+      },
+      {
+        "title": "The Technology Behind Our Recovery System",
+        "description": "An inside look at the advanced technology that powers our watch recovery platform.",
+        "link": "/blog/recovery-technology"
+      }
+    ]
+  },
+  "ctaSection": {
+    "title": "An expert-led, tech-powered approach to combatting watch crime.",
+    "ctaText": "Register Your Watch Now",
+    "ctaLink": "/register"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "items": [
+      {
+        "quote": "After my Rolex was stolen during a trip to Barcelona, I thought it was gone forever. Thanks to {website.name}, it was recovered within 3 months and returned to me in perfect condition.",
+        "name": "James Wilson",
+        "role": "Recovered Rolex Submariner"
+      },
+      {
+        "quote": "The registration process was simple, and when my Audemars Piguet was stolen, the team  guided me through every step. Their professionalism gave me hope during a stressful time.",
+        "name": "Sarah Johnson",
+        "role": "Recovered Audemars Piguet Royal Oak"
+      },
+      {
+        "quote": "As a watch collector with over 20 luxury timepieces, peace of mind is priceless.They  provide me  exactly that with their comprehensive protection services.",
+        "name": "Michael Chen",
+        "role": "Luxury Watch Collector"
+      },
+      {
+        "quote": "I was skeptical at first, but when my vintage Omega was located at a foreign auction house, I became a believer. The recovery process was seamless.",
+        "name": "Robert Williams",
+        "role": "Recovered Vintage Omega Speedmaster"
+      }
+    ]
+  },
+  "contact": {
+    "title": "About Us",
+    "description": "THE {website.name} is the leading global database of lost and stolen watches. We have international operations with headquarters in London, and are part of the Art Loss Register. Our reputation is built on our organisation’s 35 years’ experience in protecting the trade, collaborating closely with law enforcement agencies and successfully recovering hundreds of millions of pounds of lost and stolen property. THE WATCH REGISTER provides buyers and traders with the most reliable search available to check if a Rolex or any other brand of watch is stolen. Our specialist recovery services offer victims of theft and insurers the best possible chance of recovering their rightful property.",
+    "formTitle": "Create Your Account"
+  }
+}

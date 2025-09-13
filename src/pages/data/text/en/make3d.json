@@ -1,0 +1,53 @@
+{
+  "header": {
+    "title": "3D Game Generator",
+    "description": "Describe your 3D game idea and we'll generate the code for you using Three.js. Ideal for beginners and advanced developers."
+  },
+  "input": {
+    "title": "Describe Your 3D Game",
+    "howToUse": "How to use",
+    "instructions": [
+      "Describe your 3D game idea in the text area (e.g., \"a 3D platformer with jumping character\")",
+      "Click the Generate button to create your game code",
+      "Copy the code and use it with Three.js",
+      "Customize the code to fit your exact needs"
+    ],
+    "placeholder": "Describe your 3D game idea... (e.g., a 3D platformer game with jumping character, a space shooter with enemies in 3D, a puzzle game with 3D blocks)",
+    "generateButton": "Generate Code",
+    "generating": "Generating...",
+    "characterCount": "characters"
+  },
+  "output": {
+    "title": "Generated Code",
+    "copied": "Code copied to clipboard!",
+    "empty": "Your generated code will appear here",
+    "generating": "Generating your game code...",
+    "usageTitle": "How to use this code",
+    "usageDescription": "This code uses the Three.js library. To run it:",
+    "usageSteps": [
+      "Create an HTML file and include Three.js and OrbitControls",
+      "Copy this code into a script tag or separate JS file",
+      "Open the HTML file in a web browser"
+    ]
+  },
+  "section": {
+    "title": "How to Use Your Generated Code",
+    "steps": [
+      {
+        "title": "Create HTML File",
+        "description": "Create a basic HTML file and include the Three.js library and OrbitControls from a CDN or local installation.",
+        "code": "<script src=\"https://threejs.org/build/three.js\"></script>\n<script src=\"https://threejs.org/examples/jsm/controls/OrbitControls.js\"></script>"
+      },
+      {
+        "title": "Add Your Game Code",
+        "description": "Copy the generated code into a <script> tag in your HTML file or link to it as an external JS file.",
+        "code": "<script>\n  // Your generated code goes here\n</script>"
+      },
+      {
+        "title": "Run and Customize",
+        "description": "Open the HTML file in a web browser to view your game. Modify the code to customize it further.",
+        "code": "// Experiment with changing values\n// to create your perfect 3D game!"
+      }
+    ]
+  }
+}

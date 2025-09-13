@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "title": "支持 {website.name}",
+    "subtitle": "您的捐赠帮助我们让 {website.name} 对全球游戏创作者保持免费和可访问"
+  },
+  "donation": {
+    "title": "为什么要捐赠？",
+    "description": "您的捐助推动新功能的开发，维持我们的平台，并支持创作者社区。无论金额大小，每一笔捐赠都能帮助 {website.name} 赋能游戏开发者，将他们的创意变为现实。"
+  },
+  "form": {
+    "title": "进行捐赠",
+    "fields": {
+      "name": "全名",
+      "email": "电子邮箱地址",
+      "amount": "捐赠金额（美元）",
+      "paymentMethod": "支付方式",
+      "submit": "提交捐赠"
+    }
+  },
+  "cta": {
+    "title": "感谢您的支持！",
+    "subtitle": "加入 {website.name}，在支持我们使命的同时开始创造游戏，让游戏开发对所有人都触手可及。"
+  }
+}

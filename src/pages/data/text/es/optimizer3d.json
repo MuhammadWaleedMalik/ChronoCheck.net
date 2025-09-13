@@ -1,0 +1,18 @@
+{
+  "header": {
+    "title": "Optimizador de Código 3D para Juegos",
+    "description": "Pegue su código de juego 3D (Three.js) para optimizar el rendimiento y la legibilidad."
+  },
+  "input": {
+    "title": "Su código de juego 3D",
+    "placeholder": "Pegue aquí su código de juego en Three.js...",
+    "optimizeButton": "Optimizar código",
+    "optimizing": "Optimizando..."
+  },
+  "output": {
+    "title": "Código optimizado",
+    "copied": "¡Código copiado al portapapeles!",
+    "empty": "Su código optimizado aparecerá aquí",
+    "optimizing": "Optimizando su código de juego..."
+  }
+}

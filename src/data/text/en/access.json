@@ -1,0 +1,43 @@
+{
+  "hero": {
+    "title": "Access & Use {website.name}",
+    "subtitle": "Learn how to join and make the most of {website.name} to create and share your games"
+  },
+  "access": {
+    "title": "How to Access {website.name}",
+    "sections": [
+      {
+        "id": 1,
+        "title": "Account Creation",
+        "description": "Sign up for a free {website.name} account to start creating games. Provide a valid email and set up a secure password. Your account gives you access to all tools and features.",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "Platform Compatibility",
+        "description": "{website.name} is accessible via web browsers on desktop and mobile devices. No installation required—just log in and start creating from anywhere.",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "Free and Premium Plans",
+        "description": "Start with our free plan to access core features, or upgrade to a premium plan for advanced tools and higher usage limits. Check {website.name} for plan details.",
+        "icon": "zap"
+      },
+      {
+        "id": 4,
+        "title": "Community Access",
+        "description": "Join our community forums to collaborate, share projects, and get feedback. Connect with other creators to enhance your game development journey.",
+        "icon": "code"
+      }
+    ]
+  },
+  "usage": {
+    "title": "Using {website.name}",
+    "description": "Once signed up, explore {website.name}'s visual scripting, 3D engine, and asset library to build games. Export to multiple platforms with ease and collaborate in real-time with your team. Follow our guidelines for a safe and creative experience."
+  },
+  "cta": {
+    "title": "Ready to Create?",
+    "subtitle": "Join {website.name} today and start building your games with our powerful, user-friendly tools."
+  }
+}

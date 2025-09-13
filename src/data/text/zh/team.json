@@ -1,0 +1,19 @@
+{
+  "team": {
+    "title": "我们的团队",
+    "members": [
+      {
+        "name": "Jay Hajeer",
+        "title": "人工智能开发者",
+        "bio": "Jay Hajeer 是 {website.name} 的首席人工智能开发者，负责推动 ioPilot 和 ioAI 的开发。凭借在机器学习和内容分析方面的专业知识，Jay 确保我们的平台实现 90% 更快的文件检索和智能标记，使创意团队能够高效管理数字资产。",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8v0b20j64kqwFn-EZf3rec309YPYazxEnSQ&s"
+      },
+      {
+        "name": "Ali Zaidi",
+        "title": "产品经理",
+        "bio": "Ali Zaidi，{website.name} 的产品经理，负责监督 ioHub 和 ioPortal 的整合。他专注于以用户为中心的设计，确保与 AWS、Azure 和 Adobe 工具的无缝连接，通过智能工作流程每周为团队节省高达 30 小时的资产管理任务时间。",
+        "image": "https://www.shutterstock.com/image-photo/happy-mid-aged-business-man-260nw-2307212331.jpg"
+      }
+    ]
+  }
+}

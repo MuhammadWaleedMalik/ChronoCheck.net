@@ -1,0 +1,50 @@
+{
+  "hero": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Explora la suite de herramientas de {website.name} para crear, optimizar y mejorar tus juegos"
+  },
+  "services": {
+    "title": "Servicios de Desarrollo de Juegos",
+    "items": [
+      {
+        "id": 1,
+        "title": "Crear Juegos 2D",
+        "description": "Genera código de juegos 2D con p5.js basado en tu descripción",
+        "icon": "code",
+           "path": "/2dgames"
+   },
+      {
+        "id": 2,
+        "title": "Crear Juegos 3D",
+        "description": "Crea código de juegos 3D con Three.js a partir de tus ideas",
+        "icon": "cpu",
+      "path": "/3dgames"
+        },
+      {
+        "id": 3,
+        "title": "Optimizar Juegos 2D",
+        "description": "Optimiza tu código de juegos 2D existente para un mejor rendimiento",
+        "icon": "zap",
+        "path": "/refine2dgames"
+      },
+      {
+        "id": 4,
+        "title": "Optimizar Juegos 3D",
+        "description": "Mejora y optimiza tu código de juegos 3D",
+        "icon": "zap",
+        "path": "/refine3dgames"
+      },
+      {
+        "id": 5,
+        "title": "Crear Portadas de Juegos",
+        "description": "Diseña portadas y artes impresionantes para tus juegos",
+        "icon": "image",
+        "path": "/gamecovers"
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para Construir?",
+    "subtitle": "Únete a {website.name} y accede a todos nuestros servicios para dar vida a tus ideas de juegos."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "hero": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Hemos recopilado respuestas detalladas a las preguntas más comunes sobre {website.name}, para ayudarte a entender mejor la plataforma y comenzar sin problemas."
+  },
+  "mission": {
+    "title": "Cómo empezar con {website.name}",
+    "description": "Ya sea que seas nuevo en {website.name} o busques optimizar tu experiencia, nuestras preguntas frecuentes cubren desde la configuración básica hasta funciones avanzadas. Explora nuestras guías integrales adaptadas para entrenadores, atletas y equipos."
+  },
+  "features": {
+    "title": "Preguntas frecuentes y respuestas detalladas",
+    "items": [
+      {
+        "id": 1,
+        "title": "¿Qué es {website.name} y cómo funciona?",
+        "description": "{website.name} es una plataforma integral de análisis de rendimiento deportivo que ofrece a equipos y atletas herramientas de análisis de video, estadísticas y funciones de interacción con los aficionados. Puedes subir grabaciones de partidos, añadir anotaciones a las jugadas, rastrear métricas de rendimiento y compartir contenido de forma segura. Su sistema basado en la nube permite acceso desde cualquier dispositivo y optimiza el trabajo de los entrenadores con etiquetado automático por IA y colaboración en tiempo real, ayudando así al desarrollo de los jugadores.",
+        "icon": "video"
+      },
+      {
+        "id": 2,
+        "title": "¿Cómo creo una cuenta en {website.name}?",
+        "description": "Crear una cuenta es rápido y sencillo. Ve a la página de registro en nuestro sitio web, introduce tu correo electrónico y una contraseña segura, y proporciona información básica como tu nombre, equipo y rol (entrenador, atleta, etc.). Recibirás un correo de verificación; haz clic en el enlace para activar tu cuenta. Después, inicia sesión para empezar a usar las funciones. También ofrecemos inicio de sesión con Google o Apple.",
+        "icon": "users"
+      },
+      {
+        "id": 3,
+        "title": "¿Qué deportes admite {website.name}?",
+        "description": "Admitimos más de 15 deportes, incluyendo fútbol americano, baloncesto, fútbol, voleibol, béisbol, sóftbol, lacrosse, hockey, lucha, atletismo, natación, tenis y golf. Cada deporte incluye plantillas personalizadas para análisis y seguimiento estadístico. Si tu deporte no aparece en la lista, contáctanos; siempre estamos ampliando la compatibilidad según la demanda de los usuarios.",
+        "icon": "globe"
+      },
+      {
+        "id": 4,
+        "title": "¿Qué tan segura está mi información en {website.name}?",
+        "description": "La seguridad es nuestra prioridad. Contamos con cifrado de extremo a extremo, almacenamiento seguro en la nube (AWS), auditorías de seguridad periódicas y cumplimiento con GDPR y CCPA. El contenido como videos y estadísticas es privado por defecto, y puedes personalizar las configuraciones de compartición. También ofrecemos autenticación de dos factores (2FA) y monitoreo constante para prevenir accesos no autorizados.",
+        "icon": "stats"
+      },
+      {
+        "id": 5,
+        "title": "¿Puedo compartir contenido con personas que no tengan cuenta en {website.name}?",
+        "description": "Sí. {website.name} permite generar enlaces seguros para compartir videos, momentos destacados, listas de reproducción y reportes estadísticos. Puedes establecer fechas de expiración y contraseñas para los enlaces. Los destinatarios sin cuenta pueden visualizar el contenido sin registrarse, pero no pueden editar ni comentar. Es ideal para reclutadores, cazatalentos o familiares.",
+        "icon": "share"
+      },
+      {
+        "id": 6,
+        "title": "¿Qué hago si necesito funciones personalizadas o integraciones para mi equipo?",
+        "description": "Ofrecemos soluciones personalizadas para equipos y organizaciones grandes, como interfaces con marca propia, análisis avanzados e integraciones con dispositivos portátiles o sistemas de puntuación. Contáctanos a través del formulario para empresas en nuestro sitio web para una demostración y propuesta. Adaptaremos {website.name} para que encaje perfectamente en tu flujo de trabajo.",
+        "icon": "camera"
+      },
+      {
+        "id": 7,
+        "title": "¿Cuáles son los planes de precios de {website.name}?",
+        "description": "{website.name} ofrece planes flexibles para diferentes necesidades. El plan gratuito incluye funciones básicas para subir y compartir videos individualmente. Los planes para equipos comienzan desde X dólares al mes (facturados anualmente) e incluyen almacenamiento ilimitado, análisis avanzados y funciones de colaboración. Los precios para empresas son personalizados. Todos los planes de pago incluyen soporte prioritario y actualizaciones periódicas.",
+        "icon": "dollar"
+      },
+      {
+        "id": 8,
+        "title": "¿{website.name} tiene aplicación móvil?",
+        "description": "Sí. Tenemos aplicaciones para iOS y Android que te permiten subir videos directamente desde tu teléfono, ver y anotar jugadas desde cualquier lugar, recibir notificaciones en tiempo real sobre actualizaciones del equipo y acceder a paneles de estadísticas. El modo sin conexión te permite descargar y revisar contenido sin conexión a internet.",
+        "icon": "smartphone"
+      },
+      {
+        "id": 9,
+        "title": "¿Puedo integrar {website.name} con otras herramientas o software?",
+        "description": "{website.name} se integra con Google Drive, Zoom, dispositivos portátiles como Fitbit y Garmin, y redes sociales. También ofrecemos acceso API para integraciones personalizadas. Nuestro equipo de soporte puede ayudarte con la configuración o proporcionarte recursos para desarrolladores.",
+        "icon": "link"
+      },
+      {
+        "id": 10,
+        "title": "¿Cómo puedo obtener soporte si tengo un problema o pregunta?",
+        "description": "Nuestro equipo de soporte está disponible 24/7. Puedes contactarnos a través del chat en vivo en el sitio web o la app, por correo electrónico a support@{website.name}.com, o acceder a nuestro centro de ayuda con artículos, tutoriales y guías en video. También ofrecemos soporte telefónico prioritario para usuarios premium y foros comunitarios para compartir consejos. Respondemos la mayoría de las consultas en pocas horas.",
+        "icon": "headphones"
+      }
+    ]
+  },
+  "stats": {
+    "title": "En cifras: {website.name}",
+    "items": [
+      {
+        "value": "200K+",
+        "label": "Equipos en todo el mundo"
+      },
+      {
+        "value": "6M+",
+        "label": "Usuarios activos"
+      },
+      {
+        "value": "180+",
+        "label": "Países compatibles"
+      },
+      {
+        "value": "15+",
+        "label": "Deportes compatibles"
+      }
+    ]
+  },
+  "team": {
+    "title": "¿Aún tienes preguntas?",
+    "description": "Si no encuentras la respuesta que buscas, nuestro equipo de soporte está aquí para ayudarte. Escríbenos a support@{website.name}.com, visita nuestro centro de ayuda o únete a los foros de usuarios. Nos aseguraremos de que aproveches al máximo {website.name}."
+  }
+}

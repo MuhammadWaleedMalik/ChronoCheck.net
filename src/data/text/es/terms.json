@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "title": "Términos y Condiciones",
+    "description": "Bienvenido a los Términos y Condiciones de {website.name}. Estos términos rigen el uso de nuestra plataforma de gestión de activos digitales impulsada por IA, incluyendo ioPilot, ioHub, ioAI, ioPortal y ioFlow. Al acceder a nuestros servicios, aceptas cumplir con estos términos, que garantizan un uso justo, protegen la propiedad intelectual y mantienen un entorno seguro para todos los usuarios. {website.name} está comprometido con la transparencia, proporcionando directrices claras sobre cómo nuestra plataforma puede ser utilizada para gestionar activos digitales de manera eficiente mientras se adhiere a estándares de nivel empresarial."
+  },
+  "team": {
+    "title": "Nuestro equipo legal",
+    "members": [
+      {
+        "name": "Jay Hajeer",
+        "title": "Asesor Legal",
+        "bio": "Jay Hajeer, Asesor Legal en {website.name}, supervisa el desarrollo y cumplimiento de nuestros términos y condiciones. Con experiencia en derecho tecnológico e IA, Jay asegura que los términos de nuestra plataforma protejan a los usuarios mientras se alinean con las regulaciones globales, fomentando confianza y cumplimiento en nuestras soluciones de gestión de activos digitales.",
+        "image": "/images/placeholder.jpg"
+      },
+      {
+        "name": "Ali Zaidi",
+        "title": "Oficial de Cumplimiento",
+        "bio": "Ali Zaidi, Oficial de Cumplimiento en {website.name}, asegura que nuestros términos cumplan con los estándares SOC 2, GDPR y HIPAA. Su profundo conocimiento de los marcos regulatorios respalda el compromiso de {website.name} de proporcionar una plataforma segura y conforme para gestionar activos digitales en todas las industrias.",
+        "image": "/images/placeholder.jpg"
+      }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "Acuerdo de uso del servicio",
+        "description": "Al usar {website.name}, aceptas utilizar nuestra plataforma, incluyendo ioPilot, ioHub, ioAI, ioPortal y ioFlow, únicamente para fines legales. Los usuarios no deben hacer mal uso de nuestros servicios, como intentar acceder a datos no autorizados, distribuir contenido malicioso o interrumpir la funcionalidad de la plataforma. {website.name} proporciona acceso a un espacio de trabajo unificado para gestionar activos digitales en plataformas en la nube como AWS, Azure y Google Drive. Eres responsable de mantener la confidencialidad de las credenciales de tu cuenta y garantizar el cumplimiento de nuestros términos. El uso no autorizado puede resultar en la suspensión o terminación de la cuenta. {website.name} se reserva el derecho de actualizar estos términos para reflejar cambios en nuestros servicios o requisitos legales, con notificaciones proporcionadas por correo electrónico o en nuestra plataforma. El uso continuado tras las actualizaciones constituye la aceptación de los términos revisados. Nuestra plataforma se integra con herramientas como Adobe y Microsoft, y los usuarios deben cumplir con los términos de esos servicios de terceros cuando se utilicen junto con {website.name}.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      },
+      {
+        "title": "Propiedad intelectual y licencias",
+        "description": "{website.name} te otorga una licencia no exclusiva e intransferible para usar nuestra plataforma para la gestión de activos digitales, sujeta a estos términos. Todo el contenido de nuestra plataforma, incluyendo software, algoritmos de IA (por ejemplo, ioAI) e interfaces de usuario, es propiedad de {website.name} o sus licenciantes y está protegido por las leyes de propiedad intelectual. Los usuarios conservan la propiedad de su contenido subido, pero otorgan a {website.name} una licencia limitada para procesar, almacenar y analizarlo para la entrega de servicios (por ejemplo, etiquetado automático, transcripción). No puedes copiar, modificar o distribuir el contenido de nuestra plataforma sin permiso. La función ioPortal de {website.name} permite compartir de forma segura con marcas de agua y controles de acceso, pero los usuarios deben asegurar que el contenido compartido cumpla con las leyes aplicables. La violación de los términos de propiedad intelectual puede llevar a la terminación de la cuenta y acciones legales. Animamos a los usuarios a informar cualquier mal uso de la propiedad intelectual a nuestro equipo legal.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f649c962aa9a54261_Aboutimg2.png"
+      },
+      {
+        "title": "Limitación de responsabilidad",
+        "description": "{website.name} proporciona sus servicios “tal cual” y no garantiza un funcionamiento ininterrumpido o libre de errores. Aunque nos esforzamos por lograr un 90% de mejora en la velocidad de recuperación de archivos e integración fluida con herramientas como Adobe y Avid, {website.name} no es responsable por daños derivados de interrupciones del servicio, pérdida de datos o acciones de terceros (por ejemplo, proveedores de almacenamiento en la nube). Los usuarios asumen la responsabilidad de respaldar sus datos y garantizar el cumplimiento de sus propios requisitos regulatorios. La responsabilidad de {website.name} se limita a las tarifas pagadas por el servicio, si corresponde. No somos responsables por daños indirectos, como pérdidas de beneficios o oportunidades comerciales. Las funciones de seguridad de nuestra plataforma, incluyendo el cifrado de extremo a extremo y la autenticación multifactor, buscan proteger tus datos, pero los usuarios deben implementar sus propias medidas de seguridad para el acceso a la cuenta. Contacta a nuestro equipo legal para aclaraciones sobre los términos de responsabilidad.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74acc1e5c9c760d8e93_Inovation.jpg"
+      },
+      {
+        "title": "Terminación y suspensión",
+        "description": "{website.name} puede suspender o terminar tu cuenta por violar estos términos, como el acceso no autorizado, el mal uso de funciones de IA (por ejemplo, ioPilot, ioAI) o el incumplimiento de las obligaciones de pago. Tras la terminación, se revocará el acceso a nuestra plataforma, incluyendo ioHub y ioPortal, y los datos pueden eliminarse según nuestra política de privacidad. Los usuarios pueden terminar su cuenta en cualquier momento contactando a nuestro equipo de soporte, sujeto a cualquier obligación pendiente. {website.name} proporcionará notificación de terminación cuando lo requiera la ley. Nos reservamos el derecho de investigar y tomar acciones legales contra las violaciones. Nuestro motor de flujos de trabajo sin código, ioFlow, soporta notificaciones automáticas para cambios de estado de cuenta, asegurando transparencia. La reinstalación puede ser posible tras la resolución de las violaciones, a discreción de {website.name}.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74a7b133b8f9e34f88d_Ethical%20Leadership.jpg"
+      }
+    ]
+  },
+  "additional": {
+    "items": [
+      {
+        "title": "Conducta del usuario",
+        "description": "Los usuarios no deben participar en actividades que dañen la plataforma de {website.name}, como subir contenido malicioso, intentar eludir medidas de seguridad o usar nuestros servicios para fines ilegales. Aceptas cumplir con todas las leyes aplicables y respetar los derechos de otros usuarios."
+      },
+      {
+        "title": "Términos de pago",
+        "description": "Si corresponde, los usuarios acuerdan pagar las tarifas por los servicios de {website.name} según lo establecido en nuestros términos de precios. El impago puede resultar en la suspensión del servicio. {website.name} no almacena directamente información de pago, dependiendo de procesadores de terceros seguros."
+      },
+      {
+        "title": "Resolución de disputas",
+        "description": "Cualquier disputa derivada de estos términos se resolverá mediante arbitraje vinculante, salvo que la ley exija lo contrario. Contacta al equipo legal de {website.name} para iniciar la resolución de disputas. Nos esforzamos por resolver los problemas de manera justa y rápida."
+      },
+      {
+        "title": "Servicios de terceros",
+        "description": "{website.name} se integra con plataformas de terceros como AWS, Google Drive y Adobe. Los usuarios son responsables de cumplir con los términos de estos servicios cuando se usan junto con nuestra plataforma. {website.name} no es responsable por problemas con servicios de terceros."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Contacta a nuestro equipo legal",
+    "description": "¿Tienes preguntas sobre nuestros Términos y Condiciones? Comunícate con el equipo legal de {website.name} para obtener aclaraciones o discutir tus obligaciones como usuario. Estamos aquí para asegurar que entiendas cómo usar nuestra plataforma impulsada por IA de manera responsable.",
+    "linkText": "Contáctanos"
+  }
+}

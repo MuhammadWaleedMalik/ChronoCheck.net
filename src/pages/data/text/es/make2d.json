@@ -1,0 +1,18 @@
+{
+  "header": {
+    "title": "2D Game Generator",
+    "description": "Describe your 2D game idea and generate code using p5.js. Perfect for quick prototyping."
+  },
+  "input": {
+    "title": "Your Game Idea",
+    "placeholder": "Describe your 2D game (e.g., a simple moving character game)",
+    "generateButton": "Generate Code",
+    "generating": "Generating..."
+  },
+  "output": {
+    "title": "Generated Code",
+    "copied": "Code copied to clipboard!",
+    "empty": "Your code will appear here",
+    "generating": "Generating your game code..."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "title": "Accede y utiliza {website.name}",
+    "subtitle": "Aprende cómo unirte y aprovechar al máximo {website.name} para crear y compartir tus juegos"
+  },
+  "access": {
+    "title": "Cómo acceder a {website.name}",
+    "sections": [
+      {
+        "id": 1,
+        "title": "Creación de cuenta",
+        "description": "Regístrate para obtener una cuenta gratuita de {website.name} y comienza a crear juegos. Proporciona un correo electrónico válido y configura una contraseña segura. Tu cuenta te dará acceso a todas las herramientas y funciones.",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "Compatibilidad de la plataforma",
+        "description": "{website.name} es accesible a través de navegadores web en dispositivos de escritorio y móviles. No se requiere instalación: solo inicia sesión y comienza a crear desde cualquier lugar.",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "Planes gratuitos y premium",
+        "description": "Comienza con nuestro plan gratuito para acceder a las funciones básicas, o actualiza a un plan premium para obtener herramientas avanzadas y límites de uso más altos. Consulta los detalles de los planes en {website.name}.",
+        "icon": "zap"
+      },
+      {
+        "id": 4,
+        "title": "Acceso a la comunidad",
+        "description": "Únete a nuestros foros comunitarios para colaborar, compartir proyectos y recibir retroalimentación. Conéctate con otros creadores para mejorar tu experiencia en el desarrollo de juegos.",
+        "icon": "code"
+      }
+    ]
+  },
+  "usage": {
+    "title": "Uso de {website.name}",
+    "description": "Una vez registrado, explora el scripting visual, motor 3D y biblioteca de recursos de {website.name} para crear juegos. Exporta fácilmente a múltiples plataformas y colabora en tiempo real con tu equipo. Sigue nuestras pautas para una experiencia segura y creativa."
+  },
+  "cta": {
+    "title": "¿Listo para crear?",
+    "subtitle": "Únete a {website.name} hoy y comienza a construir tus juegos con nuestras potentes y fáciles de usar herramientas."
+  }
+}
+  

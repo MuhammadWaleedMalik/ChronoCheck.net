@@ -1,0 +1,53 @@
+{
+  "header": {
+    "title": "Generador de Juegos 3D",
+    "description": "Describe tu idea de juego 3D y generaremos el código para ti usando Three.js. Ideal para principiantes y desarrolladores avanzados."
+  },
+  "input": {
+    "title": "Describe tu juego 3D",
+    "howToUse": "Cómo usar",
+    "instructions": [
+      "Describe tu idea de juego 3D en el área de texto (ejemplo: \"un juego de plataformas 3D con personaje que salta\")",
+      "Haz clic en el botón Generar para crear tu código de juego",
+      "Copia el código y úsalo con Three.js",
+      "Personaliza el código para que se adapte a tus necesidades"
+    ],
+    "placeholder": "Describe tu idea de juego 3D... (ejemplo: un juego de plataformas 3D con personaje que salta, un shooter espacial 3D con enemigos, un juego de rompecabezas con bloques 3D)",
+    "generateButton": "Generar Código",
+    "generating": "Generando...",
+    "characterCount": "caracteres"
+  },
+  "output": {
+    "title": "Código Generado",
+    "copied": "¡Código copiado al portapapeles!",
+    "empty": "Tu código generado aparecerá aquí",
+    "generating": "Generando tu código de juego...",
+    "usageTitle": "Cómo usar este código",
+    "usageDescription": "Este código usa la librería Three.js. Para ejecutarlo:",
+    "usageSteps": [
+      "Crea un archivo HTML e incluye Three.js y OrbitControls",
+      "Copia este código dentro de una etiqueta script o en un archivo JS separado",
+      "Abre el archivo HTML en un navegador web"
+    ]
+  },
+  "section": {
+    "title": "Cómo usar tu código generado",
+    "steps": [
+      {
+        "title": "Crear archivo HTML",
+        "description": "Crea un archivo HTML básico e incluye la librería Three.js y OrbitControls desde un CDN o instalación local.",
+        "code": "<script src=\"https://threejs.org/build/three.js\"></script>\n<script src=\"https://threejs.org/examples/jsm/controls/OrbitControls.js\"></script>"
+      },
+      {
+        "title": "Agregar tu código de juego",
+        "description": "Copia el código generado dentro de una etiqueta <script> en tu archivo HTML o enlázalo como un archivo JS externo.",
+        "code": "<script>\n  // Tu código generado va aquí\n</script>"
+      },
+      {
+        "title": "Ejecutar y personalizar",
+        "description": "Abre el archivo HTML en un navegador para ver tu juego. Modifica el código para personalizarlo más.",
+        "code": "// Experimenta cambiando valores\n// ¡para crear tu juego 3D perfecto!"
+      }
+    ]
+  }
+}

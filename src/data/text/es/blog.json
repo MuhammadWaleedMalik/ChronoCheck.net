@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "title": "Blog de Desarrollo de Juegos",
+    "subtitle": "Explora consejos, tutoriales e ideas sobre cómo crear juegos 2D y 3D con {website.name}"
+  },
+  "posts": {
+    "title": "Últimas Publicaciones",
+    "items": [
+      {
+        "id": 1,
+        "title": "Dominando los Plataformeros 2D: Mecánicas Básicas",
+        "content": "Crear un juego de plataformas en 2D es un gran punto de partida para nuevos desarrolladores. Con {website.name}, puedes usar el sistema de scripting visual para diseñar controles fluidos. Empieza con un controlador de personaje que maneje saltos y movimiento. Usa la física para gravedad y colisiones, logrando una sensación realista. Agrega coleccionables como monedas o potenciadores para enganchar a los jugadores. Nuestra biblioteca de assets ofrece sprites para personajes y entornos, ahorrándote tiempo. Ajusta variables como altura de salto y velocidad para una jugabilidad perfecta. Prueba temprano y seguido para balancear la dificultad. La exportación multiplataforma te permite compartir tu juego en web o móvil. Las herramientas de {website.name} hacen que la iteración sea rápida e intuitiva. Experimenta con diseño de niveles para mantener a los jugadores interesados. Evita errores comunes como controles torpes u obstáculos injustos. El feedback de la comunidad puede refinar tus mecánicas. Con práctica, tu plataformero brillará. Empieza pequeño, luego escala con más características. {website.name} apoya tu camino creativo. ¿Listo para construir tu primer nivel?",
+        "icon": "code",
+        "date": "15 de agosto de 2025"
+      },
+      {
+        "id": 2,
+        "title": "Construyendo Mundos 3D Inmersivos",
+        "content": "Crear juegos 3D en {website.name} es más fácil de lo que crees. Nuestro motor 3D soporta gráficos impresionantes y física realista. Comienza con un terreno simple y agrega assets de nuestra biblioteca. Usa iluminación para definir la atmósfera—suave para fantasía, dura para ciencia ficción. Implementa una cámara en primera o tercera persona para inmersión. El scripting visual de {website.name} simplifica mecánicas complejas como IA o sistemas de combate. Optimiza el rendimiento limitando draw calls y usando modelos LOD. Prueba tu mundo en varias plataformas para garantizar compatibilidad. Las herramientas de colaboración permiten trabajar en tiempo real. Enfócate en la narrativa para hacer memorable tu mundo. Evita sobrecargar con demasiados assets; mantenlo equilibrado. Experimenta con la física para interacciones dinámicas, como objetos destructibles. Los tutoriales en {website.name} pueden guiarte. Comparte fácilmente tu juego con nuestras herramientas de exportación. ¡Tu obra maestra 3D te espera!",
+        "icon": "cpu",
+        "date": "10 de agosto de 2025"
+      },
+      {
+        "id": 3,
+        "title": "Combinando 2D y 3D: Diseño Híbrido",
+        "content": "Los juegos híbridos combinan el encanto del 2D con la profundidad del 3D, y {website.name} lo hace sencillo. Empieza con un estilo 2D para los personajes, pero colócalos en un entorno 3D. Esto crea una estética única, como los juegos retro modernos. Usa scripting visual para manejar animaciones 2D dentro de un espacio 3D. Agrega profundidad con fondos de paralaje o efectos de cámara 3D. Nuestra biblioteca de assets incluye tanto sprites 2D como modelos 3D para mezclar. Prueba la jugabilidad para asegurar controles intuitivos en ambas dimensiones. Exporta a múltiples plataformas con un solo clic. Colabora con otros para perfeccionar tu diseño híbrido. Evita complicar demasiado las mecánicas; mantenlas accesibles. El feedback de la comunidad en {website.name} puede inspirar nuevas ideas. Experimenta con iluminación para mejorar el look híbrido. Los tutoriales te guían en técnicas de combinación. ¡Comparte tu creación y destaca en el mundo gamer!",
+        "icon": "box",
+        "date": "5 de agosto de 2025"
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Inspirado para Crear?",
+    "subtitle": "Únete a {website.name} y comienza a crear tus propios juegos 2D y 3D con nuestras potentes herramientas."
+  }
+}

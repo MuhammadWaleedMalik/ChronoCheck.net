@@ -1,0 +1,43 @@
+{
+  "hero": {
+    "title": "访问与使用 {website.name}",
+    "subtitle": "了解如何加入并充分利用 {website.name} 来创建和分享您的游戏"
+  },
+  "access": {
+    "title": "如何访问 {website.name}",
+    "sections": [
+      {
+        "id": 1,
+        "title": "账户创建",
+        "description": "注册一个免费的 {website.name} 账户即可开始创建游戏。提供有效的电子邮件并设置一个安全的密码。您的账户将为您提供所有工具和功能的访问权限。",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "平台兼容性",
+        "description": "{website.name} 可通过桌面和移动设备上的网页浏览器访问。无需安装——只需登录即可随时随地开始创作。",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "免费和高级计划",
+        "description": "从我们的免费计划开始，访问核心功能；或升级到高级计划以获取高级工具和更高的使用限制。请在 {website.name} 查看计划详情。",
+        "icon": "zap"
+      },
+      {
+        "id": 4,
+        "title": "社区访问",
+        "description": "加入我们的社区论坛以协作、分享项目并获取反馈。与其他创作者建立联系，提升您的游戏开发之旅。",
+        "icon": "code"
+      }
+    ]
+  },
+  "usage": {
+    "title": "使用 {website.name}",
+    "description": "注册后，探索 {website.name} 的可视化脚本、3D 引擎和资源库来构建游戏。轻松导出到多个平台，并与团队实时协作。遵循我们的指南，确保安全和创造性的体验。"
+  },
+  "cta": {
+    "title": "准备好开始创作了吗？",
+    "subtitle": "立即加入 {website.name}，使用我们强大且用户友好的工具开始构建您的游戏。"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "hero": {
+    "title": "私たちのサービス",
+    "subtitle": "{website.name} のツール群を活用して、ゲームを作成・最適化・強化しましょう"
+  },
+  "services": {
+    "title": "ゲーム開発サービス",
+    "items": [
+      {
+        "id": 1,
+        "title": "2Dゲームを作る",
+        "description": "p5.js を使って説明に基づいた2Dゲームコードを生成",
+        "icon": "code",
+            "path": "/2dgames"
+  },
+      {
+        "id": 2,
+        "title": "3Dゲームを作る",
+        "description": "Three.js を使ってアイデアから3Dゲームコードを作成",
+        "icon": "cpu",
+      "path": "/3dgames"
+        },
+      {
+        "id": 3,
+        "title": "2Dゲームを改善",
+        "description": "既存の2Dゲームコードを最適化してパフォーマンスを向上",
+        "icon": "zap",
+        "path": "/refine2dgames"
+      },
+      {
+        "id": 4,
+        "title": "3Dゲームを改善",
+        "description": "3Dゲームコードを改良・最適化",
+        "icon": "zap",
+        "path": "/refine3dgames"
+      },
+      {
+        "id": 5,
+        "title": "ゲームカバーを作る",
+        "description": "ゲーム用の魅力的なカバーやアートワークをデザイン",
+        "icon": "image",
+        "path": "/gamecovers"
+      }
+    ]
+  },
+  "cta": {
+    "title": "開発を始める準備はできましたか？",
+    "subtitle": "{website.name} に参加して、すべてのサービスにアクセスし、あなたのゲームアイデアを実現しましょう。"
+  }
+}

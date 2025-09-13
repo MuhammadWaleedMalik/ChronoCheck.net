@@ -1,0 +1,13 @@
+{
+  "logoAlt": "{websiteName} Logo",
+  "nav": {
+    "Solutions": "Solutions",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "languageSelector": {
+    "heading": "Languages",
+    "changeLanguageLabel": "Change Language"
+  }
+}

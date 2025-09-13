@@ -1,0 +1,53 @@
+{
+  "header": {
+    "title": "3D ゲームジェネレーター",
+    "description": "あなたの 3D ゲームのアイデアを入力すると、Three.js を使ってコードを生成します。初心者から上級者まで利用可能です。"
+  },
+  "input": {
+    "title": "あなたの 3D ゲームを説明してください",
+    "howToUse": "使い方",
+    "instructions": [
+      "テキストエリアに 3D ゲームのアイデアを入力してください（例：「ジャンプできるキャラクターの 3D プラットフォーマー」）",
+      "生成ボタンをクリックしてゲームコードを作成",
+      "コードをコピーして Three.js と一緒に使用",
+      "コードをカスタマイズして自分のニーズに合わせる"
+    ],
+    "placeholder": "あなたの 3D ゲームアイデアを入力してください...（例：ジャンプキャラクター付き 3D プラットフォーマー、敵が出てくる 3D スペースシューター、3D ブロックのパズルゲーム）",
+    "generateButton": "コードを生成",
+    "generating": "生成中...",
+    "characterCount": "文字"
+  },
+  "output": {
+    "title": "生成されたコード",
+    "copied": "コードをクリップボードにコピーしました！",
+    "empty": "生成されたコードはここに表示されます",
+    "generating": "ゲームコードを生成しています...",
+    "usageTitle": "このコードの使い方",
+    "usageDescription": "このコードは Three.js ライブラリを使用します。実行方法：",
+    "usageSteps": [
+      "HTML ファイルを作成し、Three.js と OrbitControls を読み込む",
+      "このコードを script タグまたは別の JS ファイルにコピー",
+      "HTML ファイルをブラウザで開く"
+    ]
+  },
+  "section": {
+    "title": "生成したコードの使い方",
+    "steps": [
+      {
+        "title": "HTML ファイルを作成",
+        "description": "基本的な HTML ファイルを作成し、CDN またはローカルから Three.js と OrbitControls を読み込みます。",
+        "code": "<script src=\"https://threejs.org/build/three.js\"></script>\n<script src=\"https://threejs.org/examples/jsm/controls/OrbitControls.js\"></script>"
+      },
+      {
+        "title": "ゲームコードを追加",
+        "description": "生成されたコードを HTML ファイルの <script> タグにコピーするか、外部 JS ファイルとしてリンクします。",
+        "code": "<script>\n  // 生成されたコードをここに記入\n</script>"
+      },
+      {
+        "title": "実行とカスタマイズ",
+        "description": "ブラウザで HTML ファイルを開いてゲームを確認してください。コードを編集してさらにカスタマイズできます。",
+        "code": "// 値を変更してみましょう\n// あなたの理想の 3D ゲームを作りましょう！"
+      }
+    ]
+  }
+}

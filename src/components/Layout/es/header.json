@@ -1,0 +1,13 @@
+{
+  "logoAlt": "Logo de {websiteName}",
+  "nav": {
+     "Solutions": "Soluciones",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "logout": "Cerrar sesión"
+  },
+  "languageSelector": {
+    "heading": "Idiomas",
+    "changeLanguageLabel": "Cambiar idioma"
+  }
+}

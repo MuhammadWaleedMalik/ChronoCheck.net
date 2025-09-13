@@ -1,0 +1,19 @@
+{
+  "team": {
+    "title": "Nuestro equipo",
+    "members": [
+      {
+        "name": "Jay Hajeer",
+        "title": "Desarrollador de IA",
+        "bio": "Jay Hajeer es el desarrollador principal de IA en {website.name}, liderando el desarrollo de ioPilot e ioAI. Con experiencia en aprendizaje automático y análisis de contenido, Jay asegura que nuestra plataforma ofrezca una recuperación de archivos un 90% más rápida y un etiquetado inteligente, empoderando a los equipos creativos para gestionar activos digitales de manera eficiente.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8v0b20j64kqwFn-EZf3rec309YPYazxEnSQ&s"
+      },
+      {
+        "name": "Ali Zaidi",
+        "title": "Gerente de Producto",
+        "bio": "Ali Zaidi, Gerente de Producto en {website.name}, supervisa la integración de ioHub e ioPortal. Su enfoque en el diseño centrado en el usuario garantiza conexiones fluidas con herramientas de AWS, Azure y Adobe, ahorrando a los equipos hasta 30 horas semanales en tareas de gestión de activos mediante flujos de trabajo inteligentes.",
+        "image": "https://www.shutterstock.com/image-photo/happy-mid-aged-business-man-260nw-2307212331.jpg"
+      }
+    ]
+  }
+}

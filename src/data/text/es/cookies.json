@@ -1,0 +1,28 @@
+{
+  "title": "Política de Cookies de {website.name}",
+  "subtitle": "Descubre cómo {website.name} utiliza cookies para mejorar tu experiencia con nuestra plataforma de gestión de activos digitales impulsada por IA, garantizando una funcionalidad fluida, análisis y personalización.",
+  "content": [
+    "{website.name} utiliza cookies para optimizar tu experiencia en nuestra plataforma, que impulsa una gestión de activos digitales inteligente a través de funciones como ioPilot, ioHub e ioAI. Las cookies nos ayudan a entender cómo interactúas con nuestros servicios, permitiéndonos mejorar el rendimiento, personalizar el contenido y proporcionar análisis para obtener mejores conocimientos sobre los usuarios.",
+    "Las cookies son pequeños archivos de texto que se almacenan en tu dispositivo cuando visitas nuestro sitio web. Permiten a {website.name} recordar tus preferencias, rastrear patrones de uso y ofrecer funciones personalizadas como búsqueda en lenguaje natural y flujos de trabajo automatizados. Estamos comprometidos con la transparencia en cómo usamos las cookies para apoyar tu productividad.",
+    "Al usar {website.name}, aceptas nuestro uso de cookies según lo descrito en esta política. Puedes gestionar tus preferencias de cookies en cualquier momento a través de la configuración de tu navegador o el banner de consentimiento de nuestra plataforma. {website.name} cumple con las regulaciones globales de privacidad, incluyendo GDPR y CCPA, asegurando que tus datos se manejen de manera responsable."
+  ],
+  "sections": [
+    {
+      "title": "Cookies Esenciales",
+      "content": "Las cookies esenciales son necesarias para que la plataforma de {website.name} funcione correctamente, habilitando funciones básicas como la autenticación de usuarios, la gestión de sesiones y el acceso al espacio de trabajo unificado de ioHub. Estas cookies garantizan una integración fluida con plataformas de almacenamiento en la nube como AWS, Azure y Google Drive, y no pueden desactivarse ya que son críticas para ofrecer nuestros servicios."
+    },
+    {
+      "title": "Cookies de Rendimiento",
+      "content": "{website.name} utiliza cookies de rendimiento para recopilar datos anónimos sobre cómo los usuarios interactúan con nuestra plataforma, como los tiempos de carga de páginas y el uso de funciones (por ejemplo, la búsqueda en lenguaje natural de ioPilot). Estos datos nos ayudan a optimizar el rendimiento, ahorrando hasta 30 horas por semana en tareas de gestión de activos digitales al mejorar la eficiencia y la experiencia del usuario."
+    },
+    {
+      "title": "Cookies Funcionales",
+      "content": "Las cookies funcionales permiten funciones personalizadas en {website.name}, como recordar tus preferencias de idioma o configuraciones de flujo de trabajo en ioFlow. Estas cookies mejoran la usabilidad al adaptar la plataforma a tus necesidades, soportando integraciones con herramientas de Adobe y Microsoft, y garantizando una experiencia personalizada sin comprometer la privacidad."
+    },
+    {
+      "title": "Cookies de Análisis",
+      "content": "Las cookies de análisis ayudan a {website.name} a entender los patrones de uso, como la frecuencia con la que los usuarios acceden a ioAI para etiquetado de contenido o a ioPortal para compartir de forma segura. Estas cookies proporcionan información para mejorar nuestros servicios, garantizando un 90% más de rapidez en la recuperación de archivos y una mejor colaboración. Los datos se agregan y anonimizan para proteger tu privacidad."
+    }
+  ],
+  "lastUpdated": "23 de agosto de 2025"
+}

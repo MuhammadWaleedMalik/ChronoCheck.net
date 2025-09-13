@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "title": "隐私政策",
+    "description": "在 {website.name}，我们致力于保护您的隐私并确保您的数字资产安全。我们的人工智能驱动平台，专为无缝数字资产管理而设计，遵循最高的数据保护和合规标准。了解 {website.name} 如何通过强大的加密、严格的访问控制以及符合 SOC 2、GDPR 和 HIPAA 等全球法规来保护您的数据。我们为您提供对数据的控制，同时为您的团队提供智能解决方案。"
+  },
+  "team": {
+    "title": "我们的数据保护团队",
+    "members": [
+      {
+        "name": "Jay Hajeer",
+        "title": "数据保护官",
+        "bio": "Jay Hajeer 作为 {website.name} 的数据保护官，领导我们确保符合全球隐私法规的工作。凭借在数据安全和人工智能方面的丰富经验，Jay 负责实施强大的隐私政策，确保您的数据受到企业级标准的保护。",
+        "image": "/images/placeholder.jpg"
+      },
+      {
+        "name": "Ali Zaidi",
+        "title": "合规负责人",
+        "bio": "Ali Zaidi，{website.name} 的合规负责人，确保我们的平台符合 SOC 2、GDPR 和 HIPAA 标准。他在监管框架和人工智能驱动的安全解决方案方面的专业知识保证了 {website.name} 为所有用户提供一个安全且合规的环境。",
+        "image": "/images/placeholder.jpg"
+      }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "数据安全优先",
+        "description": "在 {website.name}，数据安全是我们的首要任务。我们实施端到端加密、多因素身份验证（MFA）和基于角色的访问控制来保护您的数字资产。我们的平台旨在防止未经授权的访问，确保您的内容——无论是图片、视频还是文档——保持安全。我们定期进行安全审计和渗透测试，以维持最高标准。{website.name} 与 Adobe 和 Microsoft 等工具集成，确保在不损害数据完整性的情况下实现安全的工作流程。我们还提供详细的审计日志和活动跟踪，以实现透明度和责任感，让您可以放心将最敏感的资产托付给我们的平台。",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      },
+      {
+        "title": "用户控制和透明度",
+        "description": "{website.name} 赋予用户对其数据的完全控制。我们的平台允许您管理访问权限、为共享链接设置过期日期，并通过详细日志跟踪活动。我们提供清晰、透明的隐私政策，确保您了解数据如何被收集、存储和使用。使用 {website.name}，您可以随时请求数据删除或导出，符合 GDPR 和其他法规。我们的 ioPortal 功能通过水印和访问级别控制确保与客户和合作伙伴的安全共享，保护您的内容。",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f649c962aa9a54261_Aboutimg2.png"
+      },
+      {
+        "title": "符合全球标准",
+        "description": "{website.name} 为具有严格数据治理要求的组织设计。我们完全符合 SOC 2、GDPR 和 HIPAA 标准，确保您的数据满足监管要求。我们的平台定期接受合规审计以维持认证。{website.name} 的 ioHub 统一 AWS、Azure 和 Google Drive 等存储平台，通过实时同步和用户权限强制执行合规性。无论您是管理PB级数据的媒体公司还是处理创意资产的小型团队，{website.name} 确保您的数据实践符合全球标准。",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74acc1e5c9c760d8e93_Inovation.jpg"
+      },
+      {
+        "title": "人工智能驱动的智能隐私",
+        "description": "{website.name} 利用人工智能在不牺牲功能的情况下增强隐私。我们的 ioAI 模块自动检测敏感内容，例如个人身份信息（PII），并应用匿名化或限制访问等保护措施。人工智能驱动的异常检测识别潜在的安全威胁，确保您的资产安全。{website.name} 的智能工作流程，由 ioFlow 提供支持，允许您自动化与隐私相关的任务，例如将敏感文件路由到安全文件夹或通知合规团队。这种智能方法确保隐私融入数字资产管理的每个方面。",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74a7b133b8f9e34f88d_Ethical%20Leadership.jpg"
+      }
+    ]
+  },
+  "additional": {
+    "items": [
+      {
+        "title": "数据最小化",
+        "description": "{website.name} 遵循数据最小化原则，仅收集提供服务所需的数据。我们避免不必要的数据保留，确保您的数字资产得到高效处理。我们的 ioAI 模块通过自动标记和索引仅相关的元数据来优化数据处理，减少存储开销，同时保持隐私。"
+      },
+      {
+        "title": "安全集成",
+        "description": "我们的平台与 Adobe、Microsoft 和 Avid 等工具安全集成，确保您的数据在工作流程中受到保护。{website.name} 使用加密 API 和安全协议来防止数据泄露，让您在现有工具中无缝工作，同时保持隐私。"
+      },
+      {
+        "title": "用户权利和支持",
+        "description": "{website.name} 尊重您的数据权利，包括访问、更正或删除数据的权利。我们的支持团队随时为您解答与隐私相关的问题，确保您对资产拥有完全控制。随时联系我们以了解更多关于您的权利或我们的隐私实践。"
+      },
+      {
+        "title": "定期安全审计",
+        "description": "为了保持信任，{website.name} 定期进行安全审计和漏洞评估。我们的主动方法确保及时识别和缓解任何潜在风险，保持您的数字资产安全并符合行业标准。"
+      }
+    ]
+  },
+  "cta": {
+    "title": "联系我们的隐私团队",
+    "description": "对 {website.name} 如何保护您的数据有疑问？联系我们专门的隐私团队，了解更多关于我们的政策、请求数据访问或讨论合规需求的信息。我们致力于确保您对我们人工智能驱动平台的信任。",
+    "linkText": "联系我们"
+  }
+}

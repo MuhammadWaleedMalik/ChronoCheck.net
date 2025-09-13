@@ -1,0 +1,28 @@
+{
+  "title": "{website.name} Cookie Policy",
+  "subtitle": "Learn how {website.name} uses cookies to enhance your experience with our AI-powered digital asset management platform, ensuring seamless functionality, analytics, and personalization.",
+  "content": [
+    "{website.name} uses cookies to optimize your experience on our platform, which powers intelligent digital asset management through features like ioPilot, ioHub, and ioAI. Cookies help us understand how you interact with our services, enabling us to improve performance, personalize content, and provide analytics for better user insights.",
+    "Cookies are small text files stored on your device when you visit our website. They allow {website.name} to remember your preferences, track usage patterns, and deliver tailored features like natural-language search and automated workflows. We are committed to transparency in how we use cookies to support your productivity.",
+    "By using {website.name}, you consent to our use of cookies as outlined in this policy. You can manage your cookie preferences at any time through your browser settings or our platform’s consent banner. {website.name} complies with global privacy regulations, including GDPR and CCPA, ensuring your data is handled responsibly."
+  ],
+  "sections": [
+    {
+      "title": "Essential Cookies",
+      "content": "Essential cookies are necessary for {website.name}’s platform to function properly, enabling core features like user authentication, session management, and access to ioHub’s unified workspace. These cookies ensure seamless integration with cloud storage platforms like AWS, Azure, and Google Drive, and cannot be disabled as they are critical to delivering our services."
+    },
+    {
+      "title": "Performance Cookies",
+      "content": "{website.name} uses performance cookies to collect anonymized data on how users interact with our platform, such as page load times and feature usage (e.g., ioPilot’s natural-language search). This data helps us optimize performance, saving up to 30 hours per week on digital asset management tasks by improving efficiency and user experience."
+    },
+    {
+      "title": "Functional Cookies",
+      "content": "Functional cookies enable personalized features on {website.name}, such as remembering your language preferences or workflow settings in ioFlow. These cookies enhance usability by tailoring the platform to your needs, supporting integrations with Adobe and Microsoft tools, and ensuring a customized experience without compromising privacy."
+    },
+    {
+      "title": "Analytics Cookies",
+      "content": "Analytics cookies help {website.name} understand usage patterns, such as how often users access ioAI for content tagging or ioPortal for secure sharing. These cookies provide insights to improve our services, ensuring 90% faster file retrieval and better collaboration. Data is aggregated and anonymized to protect your privacy."
+    }
+  ],
+  "lastUpdated": "August 23, 2025"
+}

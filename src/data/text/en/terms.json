@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "title": "Terms and Conditions",
+    "description": "Welcome to the {website.name} Terms and Conditions. These terms govern your use of our AI-powered digital asset management platform, including ioPilot, ioHub, ioAI, ioPortal, and ioFlow. By accessing our services, you agree to comply with these terms, which ensure fair usage, protect intellectual property, and maintain a secure environment for all users. {website.name} is committed to transparency, providing clear guidelines for how our platform can be used to manage digital assets efficiently while adhering to enterprise-grade standards."
+  },
+  "team": {
+    "title": "Our Legal Team",
+    "members": [
+      {
+        "name": "Jay Hajeer",
+        "title": "Legal Counsel",
+        "bio": "Jay Hajeer, Legal Counsel at {website.name}, oversees the development and enforcement of our terms and conditions. With expertise in technology law and AI, Jay ensures that our platform’s terms protect users while aligning with global regulations, fostering trust and compliance in our digital asset management solutions.",
+        "image": "/images/placeholder.jpg"
+      },
+      {
+        "name": "Ali Zaidi",
+        "title": "Compliance Officer",
+        "bio": "Ali Zaidi, Compliance Officer at {website.name}, ensures our terms adhere to SOC 2, GDPR, and HIPAA standards. His deep knowledge of regulatory frameworks supports {website.name}’s commitment to providing a secure and compliant platform for managing digital assets across industries.",
+        "image": "/images/placeholder.jpg"
+      }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "Service Usage Agreement",
+        "description": "By using {website.name}, you agree to use our platform, including ioPilot, ioHub, ioAI, ioPortal, and ioFlow, for lawful purposes only. Users must not misuse our services, such as attempting to access unauthorized data, distribute malicious content, or disrupt platform functionality. {website.name} provides access to a unified workspace for managing digital assets across cloud platforms like AWS, Azure, and Google Drive. You are responsible for maintaining the confidentiality of your account credentials and ensuring compliance with our terms. Unauthorized use may result in account suspension or termination. {website.name} reserves the right to update these terms to reflect changes in our services or legal requirements, with notifications provided via email or our platform. Continued use after updates constitutes acceptance of the revised terms. Our platform integrates with tools like Adobe and Microsoft, and users must comply with the terms of those third-party services when used in conjunction with {website.name}.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f17c9cf807ddd3835_Aboutimg1.png"
+      },
+      {
+        "title": "Intellectual Property and Licensing",
+        "description": "{website.name} grants you a non-exclusive, non-transferable license to use our platform for digital asset management, subject to these terms. All content on our platform, including software, AI algorithms (e.g., ioAI), and user interfaces, is owned by {website.name} or its licensors and protected by intellectual property laws. Users retain ownership of their uploaded content but grant {website.name} a limited license to process, store, and analyze it for service delivery (e.g., auto-tagging, transcription). You may not copy, modify, or distribute our platform’s content without permission. {website.name}’s ioPortal feature allows secure sharing with watermarking and access controls, but users must ensure shared content complies with applicable laws. Violation of intellectual property terms may lead to account termination and legal action. We encourage users to report any misuse of intellectual property to our legal team.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752cb9f649c962aa9a54261_Aboutimg2.png"
+      },
+      {
+        "title": "Limitation of Liability",
+        "description": "{website.name} provides its services “as is” and does not guarantee uninterrupted or error-free operation. While we strive for 90% faster file retrieval and seamless integration with tools like Adobe and Avid, {website.name} is not liable for damages arising from service interruptions, data loss, or third-party actions (e.g., cloud storage providers). Users assume responsibility for backing up their data and ensuring compliance with their own regulatory requirements. {website.name}’s liability is limited to the fees paid for the service, if applicable. We are not responsible for indirect damages, such as lost profits or business opportunities. Our platform’s security features, including end-to-end encryption and MFA, aim to protect your data, but users must implement their own security measures for account access. Contact our legal team for clarification on liability terms.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74acc1e5c9c760d8e93_Inovation.jpg"
+      },
+      {
+        "title": "Termination and Suspension",
+        "description": "{website.name} may suspend or terminate your account for violating these terms, such as unauthorized access, misuse of AI features (e.g., ioPilot, ioAI), or failure to comply with payment obligations. Upon termination, access to our platform, including ioHub and ioPortal, will be revoked, and data may be deleted per our privacy policy. Users may terminate their account at any time by contacting our support team, subject to any outstanding obligations. {website.name} will provide notice of termination where required by law. We reserve the right to investigate and take legal action against violations. Our no-code workflow engine, ioFlow, supports automated notifications for account status changes, ensuring transparency. Reinstatement may be possible upon resolution of violations, at {website.name}’s discretion.",
+        "image": "https://cdn.prod.website-files.com/5e5fd23006075b7087ffe4f8/6752f74a7b133b8f9e34f88d_Ethical%20Leadership.jpg"
+      }
+    ]
+  },
+  "additional": {
+    "items": [
+      {
+        "title": "User Conduct",
+        "description": "Users must not engage in activities that harm {website.name}’s platform, such as uploading malicious content, attempting to bypass security measures, or using our services for illegal purposes. You agree to comply with all applicable laws and respect the rights of other users."
+      },
+      {
+        "title": "Payment Terms",
+        "description": "If applicable, users agree to pay fees for {website.name}’s services as outlined in our pricing terms. Non-payment may result in service suspension. {website.name} does not store payment information directly, relying on secure third-party processors."
+      },
+      {
+        "title": "Dispute Resolution",
+        "description": "Any disputes arising from these terms will be resolved through binding arbitration, unless otherwise required by law. Contact {website.name}’s legal team to initiate dispute resolution. We aim to resolve issues fairly and promptly."
+      },
+      {
+        "title": "Third-Party Services",
+        "description": "{website.name} integrates with third-party platforms like AWS, Google Drive, and Adobe. Users are responsible for complying with the terms of these services when used with our platform. {website.name} is not liable for third-party service issues."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Contact Our Legal Team",
+    "description": "Have questions about our Terms and Conditions? Reach out to {website.name}’s legal team for clarification or to discuss your obligations as a user. We’re here to ensure you understand how to use our AI-powered platform responsibly.",
+    "linkText": "Get in Touch"
+  }
+}
